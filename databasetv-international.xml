@@ -1,514 +1,486 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-	<channel>
-		<title><![CDATA[TV LIVE LUAR NEGERI]]></title>
-		<image>
-			<url>https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg</url>
-			</image>
-		<itunes:image href="https://raw.githubusercontent.com/putraappsoft/servercadangan/putraappsoft-patch-1/TV%20logo/tv.jpg"/>
-		<item>
-			<title><![CDATA[GEM Streaming Online]]></title>
-			<description><![CDATA[🔴<b>GEM SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Gem adalah salah satu stasiun televisi berbayar milik KC Global Media. Sampai sekarang, stasiun TV ini telah dirilis di Vietnam, tepatnya pada bulan Januari 2014.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-gem.html</link>
-			<guid isPermaLink="false">18</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/gem.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/gem.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[DRAGON Streaming Online]]></title>
-			<description><![CDATA[🔴<b>DRAGON SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Dragon TV 'Saluran satelit Timur' kadang-kadang dalam bahasa sehari-hari disebut sebagai Tomato TV karena bentuk logonya, adalah stasiun TV satelit provinsi.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-dragon-china.html</link>
-			<guid isPermaLink="false">17</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/dragon.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/dragon.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[CBS Streaming Online]]></title>
-			<description><![CDATA[🔴<b>CBS SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>CBS (awalnya singkatan dari Columbia Broadcasting System, nama resmi sebelumnya yang digunakan dari 1928 hingga 1974) adalah jaringan televisi dan radio siaran komersial Amerika.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-cbs.html</link>
-			<guid isPermaLink="false">16</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/cbs.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/cbs.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[DW Streaming Online]]></title>
-			<description><![CDATA[🔴<b>DW SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>DW adalah sebuah stasiun televisi Jerman yang didirikan pada 3 Mei 1953. Ini adalah stasiun televisi terkenal di negara Jerman.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-dw-jerman.html</link>
-			<guid isPermaLink="false">15</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/dw.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/dw-min.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[Bloomberg Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Bloomberg SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Bloomberg Television adalah jaringan berita yang mengoptimalkan bisnis dan finansial. Saluran televisi ini bertujuan untuk memudahkan pencarian info keuangan. Saat ini, sahamnya dipegang oleh Bloomberg L.P.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-bloomberg.html</link>
-			<guid isPermaLink="false">14</guid>
-			<enclosure url="https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/bloomberg.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[Fox News Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Fox News SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Fox News Channel, juga dikenal sebagai Fox News, merupakan TV kabel media konservatif yang dimiliki oleh Fox Broadcasting Company. Dirintis oleh Rupert Murdoch, saluran ini didirikan pada tanggal 7 Oktober 1996, dengan bantuan dari CBS, NBC dan ABC.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-fox-news.html</link>
-			<guid isPermaLink="false">13</guid>
-			<enclosure url="http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/foxnews.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[AL JAZEERA Streaming Online]]></title>
-			<description><![CDATA[🔴<b>AL JAZEERA SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>AL JAZEERA adalah sebuah stasiun televisi berita internasional yang dimiliki oleh Al Jazeera Satellite Network. Al Jazeera merupakan stasiun kembar dari Al Jazeera Al Jazeera English menyajikan berita, analisis, dokumenter, debat langsung, isu terkini, bisnis, dan olahraga.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-al-jazeera.html</link>
-			<guid isPermaLink="false">12</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/aje.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/aje.jpg
-"/>
-		</item>
-<item>
-			<title><![CDATA[Oh!K Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Oh!K SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Oh!K adalah saluran televisi berbayar Asia Tenggara yang dimiliki oleh WarnerMedia Entertainment, dengan konten yang dipasok oleh MBC.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-ohk-korea.html</link>
-			<guid isPermaLink="false">29273</guid>
-			<enclosure url="http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/ohk.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[TV WORK NET Streaming Online]]></title>
-			<description><![CDATA[🔴<b>TV WORK NET SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>TV Work Net menghadirkan liputan berita terkini dan streaming langsung dari TV Work Net akan membantu Anda tetap mengikuti perkembangan acara di seluruh dunia.</br>
-<br><b><i>sumber: live-radio-channels.com</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-tv-work-net.html</link>
-			<guid isPermaLink="false">643454</guid>
-			<enclosure url="http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvworknet.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[Edaily TV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Edaily TV SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Edaily (Korean 이데일리) adalah koran harian yang mengkhususkan diri dalam analisis berita ekonomi dan bisnis. Surat kabar ini didirikan pada 28 Maret 2000 dan diterbitkan di Korea Selatan. Berbasis di Jung-gu, Seoul.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-edaily-tv-korea.html</link>
-			<guid isPermaLink="false">1827374</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/edaily.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/edaily-min.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[TBS Streaming Online]]></title>
-			<description><![CDATA[🔴<b>TBS SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Traffic Broadcasting System (TBS) (Korean 교통방송, Gyotong Bangsong) adalah jaringan televisi dan radio Korea Selatan tentang lalu lintas di Wilayah Ibu Kota Seoul.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-tbs-korea.html</link>
-			<guid isPermaLink="false">9394848</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/tbs.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tbs.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[HBO Streaming Online]]></title>
-			<description><![CDATA[🔴<b>HBO SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>HBO (Home Box Office) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Time Warner. Programnya ditayangkan 24 jam sehari kepada lebih dari 40 juta pelanggan tanpa selingan iklan. Selain itu berbagai produknya juga dipasarkan ke lebih dari 150 negara.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-hbo.html</link>
-			<guid isPermaLink="false">7509989</guid>
-			<enclosure url="http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[MTV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>MTV SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>MTV (sebelumnya merupakan singkatan dari Music Television) adalah stasiun televisi Amerika Serikat yang dimiliki oleh Viacom Music and Entertainment Group, sebuah unit dari divisi Viacom Media Networks dari Viacom. Saluran itu sendiri berkantor pusat di New York, dan merupakan anak perusahaan dari Viacom Inc.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-mtv.html</link>
-			<guid isPermaLink="false">7645665</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/mtv.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/mtv.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[CNN INTERNATIONAL Streaming Online]]></title>
-			<description><![CDATA[⚫<b>CNN INTERNATIONAL SERVER ERROR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Cable News Network adalah sebuah saluran berita kabel asal AS yang didirikan tahun 1980 oleh konglomerat media asal Amerika Serikat Ted Turner. Ketika diluncurkan, CNN adalah saluran televisi pertama yang menyiarkan liputan berita 24 jam, dan saluran televisi berita pertama di Amerika Serikat.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-cnn-international.html</link>
-			<guid isPermaLink="false">11</guid>
-			<enclosure url="http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/cnninternational.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[YTN Streaming Online]]></title>
-			<description><![CDATA[🔴<b>YTN SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>YTN adalah saluran berita Korea 24 jam pertama yang disiarkan ke seluruh Korea Selatan. Itu didirikan pada 14 September 1993, dan mulai mengudara pada 1 Maret 1995.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-ytn-korea.html</link>
-			<guid isPermaLink="false">10</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/ytn.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/ytn.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[ONE Streaming Online]]></title>
-			<description><![CDATA[🔴<b>ONE SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>One adalah saluran televisi berbayar milik KC Global Media. Saluran ini menyajikan hiburan berbahasa Korea selama 24 jam, dalam bentuk serial drama dan komedi, program variasi dan pertunjukan musik, yang disuplai oleh Seoul Broadcasting System.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-one-korea.html</link>
-			<guid isPermaLink="false">09</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/one.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/one.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[EBS Streaming Online]]></title>
-			<description><![CDATA[🔴<b>EBS SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Sistem Penyiaran Pendidikan Korea ( 한국 교육 방송 공사 ) atau EBS adalah penyiar publik dan jaringan radio pendidikan Korea Selatan yang mencakup wilayah Korea Selatan, dan satu-satunya jaringan radio dan televisi utama Korea Selatan tanpa layanan regional terpisah.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-ebs-korea.html</link>
-			<guid isPermaLink="false">08</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/ebs.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/ebs-min.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[KBC Streaming Online]]></title>
-			<description><![CDATA[🔴<b>KBC SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Kwangju Broadcasting Corporation atau kbc adalah stasiun Radio dan TV di Gwangju , berafiliasi dengan Jaringan SBS.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-kbc-sbs-korea.html</link>
-			<guid isPermaLink="false">07</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kbc.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/kbcsbs.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[SBS Streaming Online]]></title>
-			<description><![CDATA[🔴<b>SBS SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>SBS TV adalah saluran televisi free-to-air Korea Selatan yang dioperasikan oleh Seoul Broadcasting System. Saluran tersebut diluncurkan pada 9 Desember 1991.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-sbs-korea.html</link>
-			<guid isPermaLink="false">06</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/sbs.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/sbs.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[KBS WORLD Streaming Online]]></title>
-			<description><![CDATA[🔴<b>KBS WORLD SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>KBS World adalah layanan penyiaran internasional Sistem Penyiaran Korea. Ini terdiri dari KBS World Radio, saluran televisi KBS World dan KBS World 24.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-kbs-world.html</link>
-			<guid isPermaLink="false">05</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kbs.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/kbsworld.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[K-Drama Streaming Online]]></title>
-			<description><![CDATA[🔵<b>K-Drama SERVER MAINTENANCE</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>K-Drama adalah stasiun televisi yang menayangkan drama Korea yang terfavorit. K-Drama memiliki slogan "No. 1 Drama Korea TV" sejak tahun 2009 sampai tahun 2011. Karena itu slogan yang digunakan akan memberi semangat yang terbaik dari stasiun televisi ini.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-k-drama-korea.html</link>
-			<guid isPermaLink="false">04</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kdrama.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/kdrama-min.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[K-Plus Movies Streaming Online]]></title>
-			<description><![CDATA[🔴<b>K-Plus Movies SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>K-Plus adalah saluran televisi berbayar Asia Tenggara yang berfokus pada menayangkan serial drama, variety show, film, dan program gaya hidup di K-pop, kecantikan & mode sebagai genre pemrograman utamanya. Diluncurkan pada 17 September 2014 dan tersedia di Indonesia, Malaysia, dan Filipina.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-k-plus-korea.html</link>
-			<guid isPermaLink="false">03</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kplus.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/kplus.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[tvN Movies Streaming Online]]></title>
-			<description><![CDATA[🔴<b>tvN Movies SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>tvN Movies, sebuah saluran saudara yang menampilkan film-film Korea Selatan, diluncurkan pada bulan Maret 2017.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tvn-movies.html</link>
-			<guid isPermaLink="false">02</guid>
-			<enclosure url="http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvnmovies.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[tvN Streaming Online]]></title>
-			<description><![CDATA[🔴<b>tvN SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>TVN (singkatan dari Total Variety Network bergaya tvN) adalah jaringan televisi berbayar nasional Korea Selatan yang dimiliki oleh Divisi E&M CJ ENM.</br>
-<br></br>
-<br>Program TVN terdiri dari berbagai konten hiburan, yang difokuskan pada serial televisi dan variety show. Ini tersedia di kabel, di satelit melalui SkyLife, dan platform IPTV di Korea Selatan. Sejak 2014, jaringan ini dipimpin oleh Rhee Myung-han.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/05/nonton-tv-luar-negeri-tvn.html</link>
-			<guid isPermaLink="false">01</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[K-POP TV Streaming Online]]></title>
-			<description><![CDATA[🔴<b>K-POP TV SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Sexy KpopTV adalah saluran video K-pop, lebih dikenal sebagai MV (video musik), pop Korea Selatan menjadi demam di seluruh dunia dan saluran ini adalah yang pertama di Brasil yang didedikasikan untuk MV girl grup terbaik.</br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-kpoptv-korea.html</link>
-			<guid isPermaLink="false">0444</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/kpoptv.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/kpoptv.jpeg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[MBC Streaming Online]]></title>
-			<description><![CDATA[🔴<b>MBC SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Munhwa Broadcasting Corporation adalah stasiun televisi dan stasiun radio penyiaran publik Korea Selatan. Dalam bahasa Korea, munhwa berarti budaya.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-mbc-korea.html</link>
-			<guid isPermaLink="false">0333</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/mbc.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/mbc.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[jtbc Streaming Online]]></title>
-			<description><![CDATA[🔴<b>jtbc SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Joongang Tongyang Broadcasting Company bergaya jtbc adalah jaringan televisi berbayar nasional Korea Selatan, di mana pemegang saham terbesarnya adalah The JoongAng Group dengan 25% saham.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-jtbc-korea.html</link>
-			<guid isPermaLink="false">0222</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/jtbc.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/jtbc.jpg
-"/>
-		</item>
-		<item>
-			<title><![CDATA[Mnet Streaming Online]]></title>
-			<description><![CDATA[🔴<b>Mnet SERVER ONAIR</b>
-<br><b>Terakhir Di Update Admin:</b></br>
-<br>Selasa, 22 Juni 2021 - <b>06:36 WIB</b></br>
-<br></br>
-<br>Mnet adalah stasiun televisi kabel Korea Selatan dengan tayangan musik dan hiburan. Salah satu dari televisi kabel berlangganan dari CJ Media. Target televisi kabel yang memiliki lebih dari 10 juta pelanggan ini adalah pemirsa usia belasan tahun.</br>
-<br><b><i>sumber: wikipedia</i></b></br>
-<br></br>
-<br><b>Informasi Server</b></br>
-<br><b>Database server: putraapps</b></br>
-]]></description>
-			<link>https://www.putraappsoft.eu.org/2021/06/nonton-tv-luar-negeri-mnet-korea.html</link>
-			<guid isPermaLink="false">0111</guid>
-			<enclosure url="https://redirector-putraappsoft.herokuapp.com/tv/international/mnet.m3u8" length="3443902" type="video/m3u8"/>
-			<itunes:image href="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/mnet.jpg
-"/>
-		</item>
-		</channel>
-</rss>
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/MnGhJqgpmNA4w2bB9" group-title="Dark 1",DarkShared_233
+https://youtu.be/eRuyQnDMtMI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 1
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 2
+http://103.153.39.34:8000/play/a05r/index.m3u8
+00
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 3
+http://103.153.39.34:8000/play/a049/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 4
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 5
+http://6.amroutras.xyz/live/6262622222/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 6
+https://goldenlivektv.com/Bagi/Habis_720p_channel_ktv.mp4
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 7
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 8
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 9
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="LIVE 1",LIVE 10
+http://ott-cdn.ucom.am/s83/03.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="LIVE 1",suryaTV_081235393956
+https://youtu.be/eRuyQnDMtMI
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 1
+http://ott-cdn.ucom.am/s83/03.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 2
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 3
+http://91.126.141.13:1935/live/61/6000-def.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 4
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 5
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 6
+https://de623a8b9bacb203.mediapackage.ap-southeast-1.amazonaws.com/out/v1/53d302267cd64627b5cbea771338f857/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 7
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 8 
+http://oqab.life:8080/live/000999/000999/237.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]",LIVE 9
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVE]" ,LIVE 10
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]" ,euro chanel 1
+http://134.19.182.131:8080/edg11_2.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]",euro chanel 2
+https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]" ,euro Chanel 3
+http://iptv.tvmalaysia.cc:80/139664/139664/6707
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]" ,euro Chanel 4
+https://akamai2-br.cdn.booyah.live/hls/1000009/71486811.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]" ,euro Chanel 5
+https://aws-br.cdn.booyah.live/hls/1000072/71112076.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]" ,euro Chanel 6
+http://103.109.56.116/live/skyfeed1018/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zJ22TZ4rh54/YM1r1ESg6sI/AAAAAAAABcs/i6xWrzMtAFYPkTdN7rnRuYkNwcxcB9k2QCLcBGAsYHQ/s1024/PicsArt_06-19-10.58.50.png" group-title="[LIVEcadangan]" ,euro Chanel 7
+https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="Lokal",suryaTV_081235393956
+https://youtu.be/eRuyQnDMtMI
+#EXTINF:-1 tvg-logo="http://202.74.236.189/~uzbwkzam/img/antv.png" group-title="Lokal", ANTV 
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antv_big1.png" tvg-id="BathokGpc" tvg-name="ANTV" group-title="Lokal",ANTV_2
+http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="Lokal",useeinfo_USEE
+http://gpc.my.id/usee/useeinfo.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="Lokal",useephoto_USEE
+http://gpc.my.id/usee/useephoto.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useeprime_USEE" group-title="Lokal",useeprime_USEE
+http://gpc.my.id/usee/useeprime.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tvri" group-title="Lokal",tvri
+http://gpc.my.id/vidio/tvri.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_indosiar_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="indosiar" group-title="Lokal",indosiar
+http://gpc.my.id/vidio/indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_transtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="trans-tv" group-title="Lokal",trans-tv
+http://gpc.my.id/vidio/trans-tv.m3u8
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/MNCTV_1.png" tvg-id="BathokGpc" tvg-name="mnc" group-title="Lokal",mnc
+http://gpc.my.id/vidio/mnc.m3u8
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/RCTI_1.png" tvg-id="BathokGpc" tvg-name="rcti" group-title="Lokal",rcti
+http://gpc.my.id/vidio/rcti.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_sctv_small1.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="sctv" group-title="Lokal",sctv
+http://gpc.my.id/vidio/sctv.m3u8
+#EXTINF:-1 tvg-logo="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/32ea2fa75b4385a5fc2d" tvg-id="BathokGpc" tvg-name="gtv" group-title="Lokal",gtv
+http://gpc.my.id/vidio/gtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="net-tv" group-title="Lokal",net-tv
+http://gpc.my.id/vidio/net-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_net_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="net-tv" group-title="Lokal",net.tv2
+http://210.210.155.35/session/eb68a4d2-d4db-11eb-a1dc-c81f66f89318/qwr9ew/s/s08/index10.m3u8
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="BathokGpc" tvg-name="Tv-One" group-title="Lokal",Tv-One
+http://gpc.my.id/ytlive/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trans7_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="trans7" group-title="Lokal",trans7
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rrinet_USEE" group-title="Lokal",rrinet_USEE
+http://gpc.my.id/usee/rrinet.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="Lokal",beritasatu
+http://gpc.my.id/vidio/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_balitv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="balitv_USEE" group-title="Lokal",balitv_USEE
+http://gpc.my.id/usee/balitv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="Lokal",metro-tv
+http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="Lokal",kompas-tv
+http://gpc.my.id/vidio/kompas-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="BathokGpc" tvg-name="inews" group-title="Lokal",inews
+http://gpc.my.id/vidio/inews.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="Lokal",CNN-Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="Lokal",CNBC-Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="antara_USEE" group-title="Lokal",antara_USEE
+http://gpc.my.id/usee/antara.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jtv_USEE" group-title="Lokal",jtv_USEE
+http://gpc.my.id/usee/jtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jaktv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jaktv" group-title="Lokal",jaktv
+http://gpc.my.id/vidio/jaktv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="Lokal",tawaftv_USEE
+http://gpc.my.id/usee/tawaftv.m3u8
+#EXTINF:-1 tvg-logo="https://zenprospect-production.s3.amazonaws.com/uploads/pictures/6045a3372f9c6a0001d0d8c9/picture" tvg-id="BathokGpc" tvg-name="ochannel" group-title="Lokal",ochannel
+http://gpc.my.id/vidio/ochannel.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_uchannel_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="uchannel_USEE" group-title="Lokal",uchannel_USEE
+http://gpc.my.id/usee/uchannel.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rtv" group-title="Lokal",rtv
+http://gpc.my.id/vidio/rtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="Lokal",rodjatv_USEE
+http://gpc.my.id/usee/rodjatv.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tKzO5NAoTVDSmg_f4ECrJvkS-Y2dXlHWmYAGvh1qd-UK_XTd_EUV_EjfANk9AnbsLjCuKpzBenL-o99SLSJo-IKYLdYLy1HBstNAyWif4XZO6B-hXmoK3ajiS99c_tChbpayuYS6SWhh_Q" tvg-id="BathokGpc" tvg-name="ajwa-tv" group-title="Lokal",ajwa-tv
+http://gpc.my.id/vidio/ajwa-tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-id="BathokGpc" tvg-name="mytv" group-title="Lokal",mytv
+http://gpc.my.id/vidio/mytv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nusantaratv_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="nusantara-tv" group-title="Lokal",nusantara-tv
+http://gpc.my.id/vidio/nusantara-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_daaitv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="daai-tv" group-title="Lokal",daai-tv
+http://gpc.my.id/vidio/daai-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="muitv_USEE" group-title="Lokal",muitv_USEE
+http://gpc.my.id/usee/muitv.m3u8
+_______kids_____
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-A2xhmK7w-LU/YH3X07kWzPI/AAAAAAAAAPo/LrRQMIIH_CoGFeW6R9UQEjrqHxPbVAHKgCLcBGAsYHQ/s320/20210405_000554.png" group-title="surya_Kids",suryaTV_081235393956
+https://youtu.be/eRuyQnDMtMI
+#EXTINF:-1 group-title="surya_Kids",Animax 
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="surya_Kids",Animax
+http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="surya_Kids",Animax2
+http://nonton.site:8888/Alifathaya/e99MqfUxic/3
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="surya_Kids",Aniplus 
+http://45.126.83.51/session/bb213850-d2a3-11eb-adc6-ae8dad4dc6a3/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="surya_Kids",Aniplus2
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="surya_Kids",Baby First
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="surya_Kids",Baby First2
+https://nonton.site:8443/6894864475/7163819284/1204
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="surya_Kids",Baby TV
+https://nonton.site:8443/6894864475/7163819284/296
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="surya_Kids",Boomerang ID
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="surya_Kids",Cartoon Network ID HD
+http://nonton.site:8888/Athayamanja/SHFTZRKFrF/680
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="surya_Kids",Cartoon Network ID HD2
+http://nonton.site:8888/Alifathaya/e99MqfUxic/680
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="surya_Kids",CBeebies
+https://nonton.site:8443/6894864475/7163819284/491
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="surya_Kids",Disney Channel
+http://tvku.live:8888/Ainamanja/RPLf79Gusm/3479
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="surya_Kids",Disney Channel ID
+https://nonton.site:8443/6894864475/7163819284/3479
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="surya_Kids",Disney Junior
+https://nonton.site:8443/6894864475/7163819284/213
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="surya_Kids",Disney Junior(link2)
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/213?token=QhBYV0dYRg4TXlJUBQUEBAMEUQUEDlVQAAFRBwNVUgdYCgYAUFNdUQMaSBAQEEJXVQhvWgIbCVcIBxwTFEUEEGZbVBQOElUEAwpTBkFIEkZdCFURXAgFVwgHBANQA1lOG0JZUhYKRgUBClEFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDDlJaGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUFREbHhJfR28WUUJMFlcCCVVAFl8SA0QVEQhYTG9SDlgPB1pGWVlaQ0YOEwpGHkEJX1xdEV9BOUlaARsOEgBRBlBWG08=
+#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="surya_Kids",Disney UK
+https://nonton.site:8443/6894864475/7163819284/2336
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="surya_Kids",Disney XD
+https://nonton.site:8443/6894864475/7163819284/104
+#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="surya_Kids",Dream Works HD
+https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/32529?token=QhBYV0dYRg4TD1dUV1VSBlUHBwBUCgdQDVZWCFcBVwEJV1MHAVFcBFUaSBAQEEJXVQhvWgIbCVYLAQIITRQUEVxAb19QEl4WAAhVA1RQEh4WEVleAxsJVA8GAQNXB1JXDB4SRl1URg4TCVYLWlwCEBhHVUsSXEELWFhvVQRACAFcEApYQVwIGBNXCm0HAV1TWgESCUQJEUkbXUNBQwxDMm0cEGJxfC97fBgtfCcrfndnLHERShtRDE1GUUUEFFtACAEGBBYcRldeTQpGER0SCBYsdBFKG1YdTVFeQghZD0ADEERFFhxGXUJnFlcQEEJXVQhVQUQDEVUbGBJcAE4+AVZcXlNXRA1bX0tGCEFWEh4WCF9dD01cF2ZEWVVDDENUCgYFBxZN
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="surya_Kids",Duck TV
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="surya_Kids",Dunia Anak
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="surya_Kids",Horee
+http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="surya_Kids",My Kidz
+http://210.210.155.35/session/5f0b1748-bf57-11eb-ba48-c81f66f89318/uq2663/h/h98/index.m3u8
+#EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="surya_Kids",Nick Jr 2
+http://iptvstream.xyz:8080/Mcnsi/7210db0d/165107
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="surya_Kids",Nick Jr ID
+http://nonton.site:8888/Alifathaya/e99MqfUxic/522
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="surya_Kids",Nick Toons
+https://nonton.site:8443/6894864475/7163819284/335
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="surya_Kids",Nickelodeon ID
+http://nonton.site:8888/Alifathaya/e99MqfUxic/962
+#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="surya_Kids",Toonmax
+https://nonton.site:8443/6894864475/7163819284/1116
+#EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="surya_Kids",XingXong
+https://nonton.site:8443/6894864475/7163819284/36764
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="surya_Kids",Zoo Moo HD
+https://nonton.site:8443/6894864475/7163819284/14104
+ 
+____Knowledge____
+ 
+#EXTINF:-1  group-title="Knowledge",DIGIONE MAXstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1  group-title="Knowledge", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", ANIMAL PLANET
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
+#EXTINF:-1  group-title="Knowledge",Animal Planet HD
+https://nonton.site:8443/6894864475/7163819284/358 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Knowledge", History 
+http://iptvtree.net:8080/test-220471/4008/162519
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (id)
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/96?token=QhBYV0dYRg4TWgUDVFEFAFJQVgAECFVXAAwFAgIFAAYBVlNUAgBWDAIaSBAQEEJXVQhvWgIbCVwPGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVwwBBQRXAE1ASVtUFA4SXQYDD0YeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDFmBlTxY1J3V5f3sUeSpwfnYhYSolEh4WB1lHFFhHABsOEgBUDlFAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWAglUAkMf
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (2)
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (V)
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People 
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild 
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild (V)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="Knowledge",Discovery Asia (V)
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Asia
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157597
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="Lokal",Fatwa TV
+http://gpc.my.id/ytlive/fatwa-tv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/TVRISportHD.png" tvg-id="BathokGpc" tvg-name="TVRI-SPORT" group-title="Sport",TVRI-SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ1_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-1" group-title="Sport",champion-tv-1
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_champ2_small.png?v=2" tvg-id="BathokGpc" tvg-name="champion-tv-2" group-title="Sport",champion-tv-2
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0tCqSEySYyZZPXsI910g4Si7DWLxpOQAxfCUM8lF4kIoAflERZNdMSomfLyB0DzrwfQ&usqp=CAU" tvg-id="BathokGpc" tvg-name="champion-tv-3" group-title="Sport",champion-tv-3
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-Sport" group-title="Sport",ZQ-Sport
+https://stream.zqprem.com/zqsport-sec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://imgmove.com//public/img/temp_img_web/Lre19gF109xOe02uXfr2.png" tvg-id="BathokGpc" tvg-name="ZQ-Sport2" group-title="Sport",ZQ-Sport2
+https://stream.zqprem.com/zqdrama-sec/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.chillglobal.com/images/channels/viasat-sport-1432658408.jpg" tvg-id="BathokGpc" tvg-name="Viasat-Sport" group-title="Sport",Viasat-Sport
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein1_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Bein1" group-title="Sport",Bein1
+http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_bein2_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="Bein2" group-title="Sport",Bein2
+http://77.83.117.60:8888/02_epl2_720p_UK/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports1_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSport1" group-title="Sport",FoxSport1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports2_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSport2" group-title="Sport",FoxSport2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_foxsports3_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="FoxSport3" group-title="Sport",FoxSport3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-1-253.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport1" group-title="Sport",AstroSuperSport1
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-2-254.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport2" group-title="Sport",AstroSuperSport2
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-3-255.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport3" group-title="Sport",AstroSuperSport3
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport4" group-title="Sport",AstroSuperSport4
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="BathokGpc" tvg-name="tvn" group-title="Entertainment",tvn
+http://gpc.my.id/vidio/tvn.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="Entertainment",zee-bioskop
+http://gpc.my.id/vidio/zee-bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="BathokGpc" tvg-name="citra-bioskop" group-title="Entertainment",citra-bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="citra-drama" group-title="Entertainment",citra-drama
+http://gpc.my.id/vidio/citra-drama.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="Entertainment",citra-dangdut
+http://gpc.my.id/vidio/citra-dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
+http://gpc.my.id/vidio/citra-entertainment.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="Entertainment",zing
+http://gpc.my.id/vidio/zing.m3u8
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="Entertainment",magna-tv
+http://gpc.my.id/vidio/magna-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
+http://gpc.my.id/usee/pramborstv.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="Entertainment",musica
+http://gpc.my.id/vidio/musica.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="Entertainment",chinesedrama_USEE
+http://gpc.my.id/usee/chinesedrama.m3u8
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" group-title="Entertainment",mola-tv-free
+http://gpc.my.id/vidio/mola-tv-free.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
+http://gpc.my.id/usee/cctv4.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="Entertainment",outdoor_USEE
+http://gpc.my.id/usee/outdoor.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="Entertainment",nhkworld_USEE
+http://gpc.my.id/usee/nhkworld.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="eljohn_USEE" group-title="Entertainment",eljohn_USEE
+http://gpc.my.id/usee/eljohn.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="Entertainment",arirang_USEE
+http://gpc.my.id/usee/arirang.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainment",The K-POP
+http://gpc.my.id/ytlive/the-kpop.m3u8
+
+#EXTINF:-1 tvg-language="id" tvg-id="Erz.hbo" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU", HBO
+http://eroz84.wap.sh/movies/hbo.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbosig" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU", HBO Signature
+http://eroz84.wap.sh/movies/hbo_sig.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbohits" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU",HBO Hits 
+http://eroz84.wap.sh/movies/hbo_hits.m3u8
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.hbofam" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU", HBO Family 
+http://eroz84.wap.sh/movies/hbo_fam.m3u8
+#EXTINF:-1 tvg-id="Erz.cinemax" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU", HBO CINEMAX
+http://eroz84.wap.sh/movies/cinemax.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.redhbo" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU", RED HBO 
+http://eroz84.wap.sh/movies/hbo_red.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" group-title="movies", FOX
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" group-title="movies", FOX ACTION MOVIES
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.foxlife" tvg-language="ind" tvg-id="foxlife" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU",FOX LIFE
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.foxmovies" tvg-language="ind" tvg-id="foxmovies" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU",FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.foxfamilymovies" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU",FOX FAMILY Movies
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.WB" tvg-id="zbioskop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" group-title="movies", WarnerBros Tv
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
+https://cdn6.goprimetime.info/feed/LC28/index.m3u8
+#EXTINF:-1 tvg-id="Erz.hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" group-title="movies", HITS
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+https://nonton.site:8443/provision/pp/1195
+#EXTINF:-1 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="movies", HITS MOVIES
+http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+https://nonton.site:8443/provision/pp/957
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" group-title="movies", Cinema World
+http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+http://210.210.155.35:80/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="movies", OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Tvn" group-title="movies" Tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsgezna3HOmhtX3rP7srcwexv_eR1NefK-g&usqp=CAU",tvN
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6362_720p/index.m3u8
+http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.TvnMovies" group-title="movies" Tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaTiLRA2QhTQQrDpfY7m-wJSLEggFESRIjKA&usqp=CAU",tvN Movie
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
+http://51.15.12.163:8080/Ainamanja/6a4fef36/157596?
+#EXTINF:-1 tvg-id="Erz.one" tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg" group-title="movies", One 
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
+#EXTINF:-1 tvg-id="Erz.axn" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0JjAlMDngvgQzAdc1uWBkOhjGDBuNky9EQ&usqp=CAU" group-title="movies", AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+http://210.210.155.35/uq2663/h/h141/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="Erz.one" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuaQNIlMpggEMfg_Mj3PXS6sqFyzuJKylyCw&usqp=CAU" group-title="movies", Sony One 
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSnWJeOgnPF31Q0xrUFBhoQ0AF85BszqDErQ&usqp=CAU" group-title="movies", Galaxy
+#EXTINF:-1 tvg-id="Erz.thrill" tvg-language="ind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLswJ26Sr_ar4aPj073ysrK7dpqaVaewGQbw&usqp=CAU" group-title="movies", Thrill
+http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
+https://cdn6.goprimetime.info/feed/LC26/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="Erz.celestial" tvg-language="ind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzUhRbHUaC2OqWpN6Knjh37im8g0-Bejk6Q&usqp=CAU" group-title="movies", Celestial Movies
+http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Ccm" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" group-title="movies", Celestial classic
+http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Zee" tvg-id="zbioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" group-title="movies", ZEE Bioskop 
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6399_720p/index.m3u8
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/y4nR7h0L1cO-DaTDy2M0-IM5fY0=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6747/zing-74f73f.jpg" tvg-id="Erz.zing" tvg-name"ZING" group-title="movies",Zing
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6747_720p/index.m3u8
+#EXTINF:-1 tvg-id="Erz.ZeeAction" tvg-id="zbioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU" group-title="movies", ZEE Actions
+http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.zeeclassic" tvg-name="Erz.zeeclassic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" group-title="movies", Zee Classic
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Erz.zeecinema" tvg-name="zee cinema" tvg-logo="https://www.firstmedia.com/files/images/zee-cinema_001.png" group-title="movies", Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="Erz.Wowowcinema" tvg-language="ind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknw0SJAUV8vvLB3yCyCnKTG1OTG2BGxhxKg&usqp=CAU" group-title="movies", Wowow Cinema 
+http://203.162.235.41:16916
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.&flix" group-title="movies" tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg", &Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.&prive" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD07BwyrnKGd4sBpldzUO3KJTHCnSLHH2iw&usqp=CAU", &Prive HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.&pictures" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OC7JsqSFcpG_S4NdRxZ2z-HwS2k2RRClmw&usqp=CAU", &Pictures HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Erz.Bollywood" tvg-language="ind" group-title="movies" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WQr0smmvvNegrwODDTdngdsbWhY0S3Pj8w&usqp=CAU", Bollywood
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="Erz.Flix" tvg-id="zbioskop" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FLIX.png" group-title="movies", Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.Movie" tvg-id="zbioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" group-title="movies", Movie Hollywood Action
+https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="" tvg-id="Erz.BooMY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="movies", ASTRO BOO
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-language="ind" tvg-id="Erz.SONYmovies" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWzkQWVQOxTUV4E_V0QI2TXn20uVOFxbJGrQ&usqp=CAU",SONY Movies
+http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-language="id" tvg-id="Erz.Boxfilm" group-title="movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofcnj5tX9UCk7KWXYMNbavxNTS3sFMaSDNg&usqp=CAU", Box Film
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8
+#EXTINF:-1 tvg-id="Erz.Movie" tvg-id="zbioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" group-title="movies", Movie
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.kix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU" group-title="movies",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+https://nonton.site:8443/6894864475/7163819284/8
+http://210.210.155.35:80/uq2663/h/h07/01.m3u8?hosk=eroz_brebes.m3u8
+#EXTINF:-1 tvg-id="Erz.TVSClassicMovies.us" tvg-name="TVS Classic Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VLWDHGs.png" tvg-url="" group-title="movies",TVS Classic Movies
+https://nrpus.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-id="Erz.IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="Ind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241riF_zpdPSGGRPu5crlzrEkY3B1oDIkGw&usqp=CAU" tvg-url="" group-title="movies",ID HD
+http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1Tbc9fICCnr4e5A6DL0Lyw071J8_W0KULQ&usqp=CAU" group-title="movies", Flik
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYakdAceUSKbpRkcKGblbS_4ZDcuXYU1Kgcg&usqp=CAU" group-title="movies", IMC
+http://iptvtree.net:8080/test-220471/4008/264769?
+#EXTINF:-1 tvg-id="Erz.Bioskopid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyO29VTLLqHdiVBCGlHIhF8y_QPNzxjhf70g&usqp=CAU" group-title="movies", Bioskop Indonesia
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7_-nPOXCiJi9Vr_6owzKC2smV0c=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg" tvg-id="Erz.citrabioskop" tvg-name"Citra Bioskop" group-title="movies",Citra Bioskop
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6684_720p/index.m3u8
+http://eroz84.wap.sh/movies/citra_bioskop.m3u8
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/oANgznd8LKnwF939_hOA75mnXEo=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg" tvg-id="Erz.citradrama" tvg-name"Citra Drama" group-title="movies",Citra Drama
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6401_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMgtqM8.jpg" group-title="movies",Hallmark Channel
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RHbmKUV.jpg" group-title="movies",Hallmark Drama
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-drama-frndlytv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="movies",Hallmark Movies & More
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IytaaVV.jpg" group-title="movies",Hallmark Movies & Mysteries
+https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmarkmovies-frndlytv/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="News",metro-tv
+http://gpc.my.id/vidio/metro-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" tvg-id="BathokGpc" tvg-name="mncnews_USEE" group-title="News",mncnews_USEE
+http://gpc.my.id/usee/mncnews.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="News",kompas-tv
+http://gpc.my.id/vidio/kompas-tv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_small.png" tvg-id="BathokGpc" tvg-name="idx_USEE" group-title="News",idx_USEE
+http://gpc.my.id/usee/idx.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="sea-today" group-title="News",sea-today
+http://gpc.my.id/vidio/sea-today.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="BathokGpc" tvg-name="inews" group-title="News",inews
+http://gpc.my.id/vidio/inews.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="News",CNN-Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="News",CNBC-Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dw-english" group-title="News",dw-english
+http://gpc.my.id/vidio/dw-english.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="News",beritasatu
+http://gpc.my.id/vidio/beritasatu.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_abcaustralia_small.png" tvg-id="BathokGpc" tvg-name="abcaustralia_USEE" group-title="News",abcaustralia_USEE
+http://gpc.my.id/usee/abcaustralia.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dwtv_USEE" group-title="News",dwtv_USEE
+http://gpc.my.id/usee/dwtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png" tvg-id="BathokGpc" tvg-name="trtworld_USEE" group-title="News",trtworld_USEE
+http://gpc.my.id/usee/trtworld.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="france24_USEE" group-title="News",france24_USEE
+http://gpc.my.id/usee/france24.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="News",seatoday_USEE
+http://gpc.my.id/usee/seatoday.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="Kids & Knowledge",hip-hip-horee
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="Kids & Knowledge",zoomoo
+http://gpc.my.id/vidio/zoomoo.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="Kids & Knowledge",da-vinci
+http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="Kids & Knowledge",horee
+http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="Kids & Knowledge",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="BathokGpc" tvg-name="mykids_USEE" group-title="Kids & Knowledge",mykids_USEE
+http://gpc.my.id/usee/mykids.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/smithsonian.png" tvg-id="BathokGpc" tvg-name="smithsonian" group-title="Kids & Knowledge",smithsonian
+http://gpc.my.id/vidio/smithsonian.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tv-edukasi" group-title="Kids & Knowledge",tv-edukasi
+http://gpc.my.id/vidio/tv-edukasi.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lovenature.png" tvg-id="BathokGpc" tvg-name="love-nature" group-title="Kids & Knowledge",love-nature
+http://gpc.my.id/vidio/love-nature.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Kids & Knowledge",cgtndocumentary_USEE
+http://gpc.my.id/usee/cgtndocumentary.m3u8
