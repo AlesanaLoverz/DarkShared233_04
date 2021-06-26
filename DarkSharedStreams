@@ -303,8 +303,6 @@ http://gpc.my.id/vidio/citra-drama.m3u8
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
 http://gpc.my.id/vidio/citra-entertainment.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="Entertainment",zing
-http://gpc.my.id/vidio/zing.m3u8
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="Entertainment",magna-tv
 http://gpc.my.id/vidio/magna-tv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
@@ -510,3 +508,8 @@ http://gpc.my.id/vidio/tv-edukasi.m3u8
 http://gpc.my.id/vidio/love-nature.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Kids & Knowledge",cgtndocumentary_USEE
 http://gpc.my.id/usee/cgtndocumentary.m3u8
+
+_______DarkStreams NO SUBTITLES_______
+
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="No Subtitles",zing
+http://gpc.my.id/vidio/zing.m3u8
