@@ -1,7 +1,7 @@
 #EXTM3U
 _______DarkStreams 1_______
 
-#EXTINF:-1 tvg-language="" tvg-id="" tvg-name"" group-title="DarkStreams 1",STREAMS-233 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png"
+#EXTINF:-1 tvg-language="" tvg-id="" tvg-name"" group-title="DarkStreams 1" tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png",STREAMS-233 
 https://youtu.be/1O2942IjVB4
 #EXTINF:-1 tvg-language="" tvg-id="" tvg-name="STREAMS" group-title="DarkStreams 1",STREAMS 1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png"
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
