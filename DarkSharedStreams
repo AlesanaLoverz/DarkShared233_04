@@ -261,8 +261,24 @@ _______DarkStreams MOVIES_______
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams MOVIES", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
-#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wishdragon.jpg" tvg-id="Erz.hbohits" tvg-name="Wish Dragon" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", Wish Dragon
+#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wishdragon.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Wish Dragon" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Wish Dragon
 https://redirector-putraappsoft.herokuapp.com/film/wishdragon.php
+#EXTINF:-3 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-4 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-5 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-6 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-7 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-8 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-9 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-10 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
+https://redirector-putraappsoft.herokuapp.com/film/luca.php
 
 _______DarkStreams 1_______
 
