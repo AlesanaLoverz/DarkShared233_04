@@ -2,9 +2,9 @@
 
 _______DarkStreams INTERNATIONAL Live TV_______
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
-#EXTINF:-1 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO PutraApps
+#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO PutraApps
 http://eroz84.wap.sh/movies/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
@@ -267,18 +267,18 @@ https://redirector-putraappsoft.herokuapp.com/film/wishdragon.php
 https://redirector-putraappsoft.herokuapp.com/film/luca.php
 #EXTINF:-4 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/rurouni.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Rurouni Kenshin: The Final" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Rurouni Kenshin: The Final
 https://redirector-putraappsoft.herokuapp.com/film/rurouni.php
-#EXTINF:-5 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
-#EXTINF:-6 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
-#EXTINF:-7 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
-#EXTINF:-8 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
-#EXTINF:-9 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
-#EXTINF:-10 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-5 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/f9.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Fast & Furious 9 The Fast Saga" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Fast & Furious 9 The Fast Saga
+https://redirector-putraappsoft.herokuapp.com/film/f9.m3u8
+#EXTINF:-6 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/unholy.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="The Unholy" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", The Unholy
+https://redirector-putraappsoft.herokuapp.com/film/unholy.php
+#EXTINF:-7 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/godzila.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Godzilla vs Kong" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Godzilla vs Kong
+https://redirector-putraappsoft.herokuapp.com/film/godzila.php
+#EXTINF:-8 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/raya.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Raya and The Last Dragon" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Raya and The Last Dragon
+https://redirector-putraappsoft.herokuapp.com/film/raya.php
+#EXTINF:-9 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/theconjuring3-min-min.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="The Conjuring 3 The Devil Made Me Do It" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", The Conjuring 3 The Devil Made Me Do It
+https://redirector-putraappsoft.herokuapp.com/film/theconjuring3.php
+#EXTINF:-10 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/adit.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Adit Sopo Jarwo The Movie" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Adit Sopo Jarwo The Movie
+https://redirector-putraappsoft.herokuapp.com/film/aditsopojarwo.php
 
 _______DarkStreams 1_______
 
