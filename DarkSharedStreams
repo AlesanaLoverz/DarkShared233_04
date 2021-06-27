@@ -2,9 +2,9 @@
 
 _______DarkStreams INTERNATIONAL Live TV_______
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
+#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
-#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO PutraApps
+#EXTINF:-1 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO PutraApps
 http://eroz84.wap.sh/movies/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
@@ -23,7 +23,7 @@ http://eroz84.wap.sh/movies/hbo_fam.m3u8
 http://eroz84.wap.sh/movies/cinemax.m3u8
 #EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="Erz.redhbo" tvg-name="RED HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", RED HBO 
 http://eroz84.wap.sh/movies/hbo_red.m3u8
-#EXTINF:-9 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", FOX
+#EXTINF:-9 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" tvg-id="" tvg-name="FOX ACTION MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", FOX ACTION MOVIES
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
@@ -39,7 +39,7 @@ https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 #EXTINF:-15 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" tvg-id="Erz.hits" tvg-name="HITS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 https://nonton.site:8443/provision/pp/1195
-#EXTINF:-16 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="DarkStreams MOVIES", HITS MOVIES
+#EXTINF:-16 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="DarkStreams INTERNATIONAL TV", HITS MOVIES
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://nonton.site:8443/provision/pp/957
@@ -47,7 +47,7 @@ https://nonton.site:8443/provision/pp/957
 http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 http://210.210.155.35:80/uq2663/h/h04/01.m3u8
-#EXTINF:-18 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="DarkStreams MOVIES", OH!K
+#EXTINF:-18 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="DarkStreams INTERNATIONAL TV", OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-19 tvg-id="PutraApps" group-title="DarkStreams INTERNATIONAL TV" Tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKsgezna3HOmhtX3rP7srcwexv_eR1NefK-g&usqp=CAU",tvN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
@@ -265,8 +265,8 @@ https://youtu.be/eRuyQnDMtMI
 https://redirector-putraappsoft.herokuapp.com/film/wishdragon.php
 #EXTINF:-3 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
 https://redirector-putraappsoft.herokuapp.com/film/luca.php
-#EXTINF:-4 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
-https://redirector-putraappsoft.herokuapp.com/film/luca.php
+#EXTINF:-4 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/rurouni.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Rurouni Kenshin: The Final" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Rurouni Kenshin: The Final
+https://redirector-putraappsoft.herokuapp.com/film/rurouni.php
 #EXTINF:-5 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
 https://redirector-putraappsoft.herokuapp.com/film/luca.php
 #EXTINF:-6 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/luca.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="Luca" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", Luca
