@@ -1,35 +1,35 @@
 #EXTM3U
 
-_______DarkStreams MOVIES_______
+_______DarkStreams INTERNATIONAL Live TV_______
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams MOVIES", STREAMS-233
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
 #EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", HBO PutraApps
 http://eroz84.wap.sh/movies/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", HBO
+#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRpFf7EJ0GuuN-0GVcaFqwK7fPmWHrJ9ft5w&usqp=CAU" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", HBO
 http://eroz84.wap.sh/movies/hbo.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU"tvg-id="Erz.hbosig" tvg-name="HBO Signature" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", HBO Signature
+#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU"tvg-id="Erz.hbosig" tvg-name="HBO Signature" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", HBO Signature
 http://eroz84.wap.sh/movies/hbo_sig.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" tvg-id="Erz.hbohits" tvg-name="HBO Hits" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", HBO Hits 
+#EXTINF:-5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" tvg-id="Erz.hbohits" tvg-name="HBO Hits" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", HBO Hits 
 http://eroz84.wap.sh/movies/hbo_hits.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" tvg-id="Erz.hbofam" tvg-name="HBO Family" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", HBO Family 
+#EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" tvg-id="Erz.hbofam" tvg-name="HBO Family" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL Live TV", HBO Family 
 http://eroz84.wap.sh/movies/hbo_fam.m3u8
-#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" tvg-id="Erz.cinemax" tvg-name="HBO CINEMAX" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", HBO CINEMAX
+#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" tvg-id="Erz.cinemax" tvg-name="HBO CINEMAX" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL Live TV", HBO CINEMAX
 http://eroz84.wap.sh/movies/cinemax.m3u8
-#EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="Erz.redhbo" tvg-name="RED HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", RED HBO 
+#EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="Erz.redhbo" tvg-name="RED HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", RED HBO 
 http://eroz84.wap.sh/movies/hbo_red.m3u8
 #EXTINF:-9 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-10 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" tvg-id="" tvg-name="FOX ACTION MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams MOVIES", FOX ACTION MOVIES
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-11 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU" tvg-id="Erz.foxlife" tvg-name="FOX LIFE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", FOX LIFE
+#EXTINF:-11 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU" tvg-id="Erz.foxlife" tvg-name="FOX LIFE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", FOX LIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU" tvg-id="Erz.foxmovies" tvg-name="FOX Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", FOX Movies
+#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU" tvg-id="Erz.foxmovies" tvg-name="FOX Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL Live TV", FOX Movies
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" tvg-name="FOX FAMILY Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", FOX FAMILY Movies
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
