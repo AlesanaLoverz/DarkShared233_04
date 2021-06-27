@@ -35,15 +35,15 @@ https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" tvg-id="Erz.hits" tvg-name="HITS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 https://nonton.site:8443/provision/pp/1195
-#EXTINF:-15 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" group-title="DarkStreams INTERNATIONAL TV", HITS MOVIES
+#EXTINF:-15 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" tvg-id="DarkStreams-233" tvg-name="HITS MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS MOVIES
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://nonton.site:8443/provision/pp/957
-#EXTINF:-16 tvg-language="ind" tvg-id="Erz.cinemaworld" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" group-title="DarkStreams INTERNATIONAL TV", Cinema World
+#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" tvg-id="DarkStreams-233(Erz.cinemaworld)" tvg-name="Cinema World" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", Cinema World
 http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 http://210.210.155.35:80/uq2663/h/h04/01.m3u8
-#EXTINF:-17 tvg-logo="https://i.imgur.com/eoHuV3J.png" group-title="DarkStreams INTERNATIONAL TV", OH!K
+#EXTINF:-17 tvg-logo="https://i.imgur.com/eoHuV3J.png" tvg-id="DarkStreams-233" tvg-name="OH!K" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id"DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN-Eng
 https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
