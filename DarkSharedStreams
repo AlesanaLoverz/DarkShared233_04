@@ -2,7 +2,7 @@
 
 _______DarkStreams MOVIES_______
 
-#EXTINF:-1 tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams MOVIES",STREAMS-233
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams MOVIES", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
 #EXTINF:-2 tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" group-title="DarkStreams MOVIES",HBO PutraApps
 http://eroz84.wap.sh/movies/hbo.m3u8
