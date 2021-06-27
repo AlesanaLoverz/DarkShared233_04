@@ -2,7 +2,7 @@
 
 _______DarkStreams INTERNATIONAL Live TV_______
 
-#EXTINF:-0 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
 #EXTINF:-1 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id="Erz.hbo" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO PutraApps
 http://eroz84.wap.sh/movies/hbo.m3u8
