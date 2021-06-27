@@ -259,9 +259,9 @@ http://gpc.my.id/usee/cgtndocumentary.m3u8
 
 _______DarkStreams MOVIES_______
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/putraappsoft/putraappsoft.github.io/main/content/image/20210425_204537.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams MOVIES", STREAMS-233
 https://youtu.be/eRuyQnDMtMI
-#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wishdragon.jpg" tvg-id="Erz.hbohits" tvg-name="HBO Hits" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO Hits 
+#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/film/wishdragon.jpg" tvg-id="Erz.hbohits" tvg-name="Wish Dragon" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams MOVIES", Wish Dragon
 https://redirector-putraappsoft.herokuapp.com/film/wishdragon.php
 
 _______DarkStreams 1_______
