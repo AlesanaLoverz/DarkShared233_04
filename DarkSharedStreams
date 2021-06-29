@@ -127,6 +127,8 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS STAR" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS STAR
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="TV3" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", TV3
+http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/8tv.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="8TV" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", 8TV
 http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="ZEE CAFE" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", ZEE CAFE
