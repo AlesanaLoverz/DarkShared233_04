@@ -14,6 +14,8 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="CCM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="Hits" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Hits
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
