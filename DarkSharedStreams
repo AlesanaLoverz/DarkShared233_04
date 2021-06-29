@@ -110,9 +110,15 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="Zee Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ZEE Bioskop 
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="Entertainment",zee-bioskop
+http://gpc.my.id/vidio/zee-bioskop.m3u8
 
 _______DarkStreams INTERNATIONAL TV_______
 
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="OUTDOOR TV" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", OUTDOOR TV
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="Entertainment",outdoor_USEE
+http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="ZEE CAFE" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", ZEE CAFE
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/warner-tv.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
@@ -145,8 +151,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 
 _______DarkStreams ENTERTAINMENT_______
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="Entertainment",zee-bioskop
-http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="Entertainment",citra-dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
@@ -159,8 +163,6 @@ http://gpc.my.id/usee/pramborstv.m3u8
 http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
 http://gpc.my.id/usee/cctv4.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="Entertainment",outdoor_USEE
-http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="Entertainment",nhkworld_USEE
 http://gpc.my.id/usee/nhkworld.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="eljohn_USEE" group-title="Entertainment",eljohn_USEE
