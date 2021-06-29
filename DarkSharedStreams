@@ -17,6 +17,8 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" tvg-id="Erz.hits" tvg-name="HITS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 https://nonton.site:8443/provision/pp/1195
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="citra-drama" group-title="Entertainment",citra-drama
+http://gpc.my.id/vidio/citra-drama.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
@@ -115,8 +117,6 @@ _______DarkStreams ENTERTAINMENT_______
 http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="BathokGpc" tvg-name="citra-bioskop" group-title="Entertainment",citra-bioskop
 http://gpc.my.id/vidio/citra-bioskop.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="citra-drama" group-title="Entertainment",citra-drama
-http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="Entertainment",citra-dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
