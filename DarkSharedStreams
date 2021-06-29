@@ -132,6 +132,8 @@ https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-28 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" tvg-id="DarkStreams-233(Erz.zeeclassic)" tvg-name="Zee Classic" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Zee Classic
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="iQIYI" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", iQIYI
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 #EXTINF:-29 tvg-logo="https://www.firstmedia.com/files/images/zee-cinema_001.png" tvg-id="DarkStreams-233(Erz.zeecinema)" tvg-name="Zee Cinema" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknw0SJAUV8vvLB3yCyCnKTG1OTG2BGxhxKg&usqp=CAU" tvg-id="DarkStreams-233(Erz.wowowcinema)" tvg-name="Wowow Cinema" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", Wowow Cinema 
