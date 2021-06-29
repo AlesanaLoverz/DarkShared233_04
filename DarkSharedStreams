@@ -42,6 +42,8 @@ http://210.210.155.35:80/uq2663/h/h04/01.m3u8
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="DarkStreams TV & Movies", Animax
 http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3
+#EXTINF:-1 group-title="DarkStreams TV & Movies",Animax 
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="DarkStreams TV & Movies", Animax2
 http://nonton.site:8888/Alifathaya/e99MqfUxic/3
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams TV & Movies", Aniplus 
@@ -171,16 +173,18 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 #EXTINF:-39 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="DarkStreams INTERNATIONAL TV",Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-_______DarkStreams ENTERTAINMENT_______
-
+_______DarkStreams MUSIC_______
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="Entertainment",citra-dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
+http://gpc.my.id/usee/pramborstv.m3u8
+
+_______DarkStreams ENTERTAINMENT_______
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
 http://gpc.my.id/vidio/citra-entertainment.m3u8
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="Entertainment",magna-tv
 http://gpc.my.id/vidio/magna-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
-http://gpc.my.id/usee/pramborstv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="Entertainment",musica
 http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
@@ -194,12 +198,10 @@ http://gpc.my.id/usee/arirang.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainment",The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
 
-_______DarkStreams KIDS_______
+_______DarkStreams KIDS & FAMILY_______
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams KIDS",STREAMS-233
-https://youtu.be/eRuyQnDMtMI
-#EXTINF:-1 group-title="DarkStreams KIDS",Animax 
-http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
+https://youtu.be/eRuyQnDMtMI 
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First2
