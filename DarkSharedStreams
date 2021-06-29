@@ -55,6 +55,14 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 https://redirector-putraappsoft.herokuapp.com/tv/international/gem.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="Bioskop Indonesia" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Bioskop Indonesia
 https://streaming.useetv.com/dass/130/bioskopindonesia_dash/media_w7715899232_b1004100_sleng_453889.ts
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="GALAXY PREMIUM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", GALAXY PREMIUM
+https://cdngb196.useetv.com/dass/133/galaxypremium_dash/media_w9171249072_b684100_sleng_453915.ts
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="IMC" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", IMC
+https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_453979.ts
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="GALAXY TV" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", GALAXY TV
+https://cdngb196.useetv.com/dass/133/galaxy_dash/media_w2254136768_b684100_sleng_453947.ts
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FLIK" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FLIK
+https://cdngb196.useetv.com/dass/133/flik_dash/media_w7715899232_b1344100_sleng_453957.ts
 
 _______DarkStreams INTERNATIONA TV_______
 
