@@ -76,23 +76,23 @@ https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_
 https://cdngb196.useetv.com/dass/133/galaxy_dash/media_w2254136768_b684100_sleng_453947.ts
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FLIK" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FLIK
 https://cdngb196.useetv.com/dass/133/flik_dash/media_w7715899232_b1344100_sleng_453957.ts
+#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="Erz.redhbo" tvg-name="RED HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", RED HBO 
+http://eroz84.wap.sh/movies/hbo_red.m3u8
+#EXTINF:-8 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FOX
+http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
+#EXTINF:-9 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" tvg-id="" tvg-name="FOX ACTION MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FOX ACTION MOVIES
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU" tvg-id="Erz.foxlife" tvg-name="FOX LIFE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX LIFE
+http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
+#EXTINF:-11 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU" tvg-id="Erz.foxmovies" tvg-name="FOX Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX Movies
+http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
+#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" tvg-name="FOX FAMILY Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX FAMILY Movies
+http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/warner-tv.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
 https://streaming.useetv.com/dass/133/hgtv/media_w529411425_b684100_sleng_445328.m3u8
-#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="Erz.redhbo" tvg-name="RED HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", RED HBO 
-http://eroz84.wap.sh/movies/hbo_red.m3u8
-#EXTINF:-8 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", FOX
-http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
-#EXTINF:-9 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" tvg-id="" tvg-name="FOX ACTION MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", FOX ACTION MOVIES
-http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
-#EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU" tvg-id="Erz.foxlife" tvg-name="FOX LIFE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", FOX LIFE
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-11 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU" tvg-id="Erz.foxmovies" tvg-name="FOX Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", FOX Movies
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" tvg-name="FOX FAMILY Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", FOX FAMILY Movies
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" tvg-id="Erz.WB" tvg-name="WarnerBros Tv" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", WarnerBros Tv
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC28/index.m3u8
