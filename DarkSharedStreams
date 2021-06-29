@@ -14,8 +14,9 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="CCM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="Hits" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Hits
+#EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" tvg-id="Erz.hits" tvg-name="HITS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+https://nonton.site:8443/provision/pp/1195
 
 _______DarkStreams INTERNATIONA TV_______
 
@@ -49,9 +50,6 @@ http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" tvg-id="Erz.WB" tvg-name="WarnerBros Tv" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", WarnerBros Tv
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC28/index.m3u8
-#EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" tvg-id="Erz.hits" tvg-name="HITS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS
-http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-https://nonton.site:8443/provision/pp/1195
 #EXTINF:-15 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" tvg-id="DarkStreams-233" tvg-name="HITS MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HITS MOVIES
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
