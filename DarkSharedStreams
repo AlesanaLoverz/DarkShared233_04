@@ -2,6 +2,19 @@
 
 ________DarkStreams TV & Movies________
 
+#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id"DarkStreams-233(PutraApps)" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO
+http://eroz84.wap.sh/movies/hbo.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU"tvg-id="Erz.hbosig" tvg-name="HBO Signature" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO Signature
+http://eroz84.wap.sh/movies/hbo_sig.m3u8
+http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
+#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" tvg-id="Erz.hbohits" tvg-name="HBO Hits" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO Hits 
+http://eroz84.wap.sh/movies/hbo_hits.m3u8
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+#EXTINF:-5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" tvg-id="Erz.hbofam" tvg-name="HBO Family" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HBO Family 
+http://eroz84.wap.sh/movies/hbo_fam.m3u8
+#EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" tvg-id="Erz.cinemax" tvg-name="HBO CINEMAX" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HBO CINEMAX
+http://eroz84.wap.sh/movies/cinemax.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FMN" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FMN
 http://185.180.221.194:8278/streams/d/Fmn/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="B4U KADAK" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", B4U KADAK
@@ -68,19 +81,6 @@ _______DarkStreams INTERNATIONA TV_______
 
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/warner-tv.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
 https://streaming.useetv.com/dass/133/hgtv/media_w529411425_b684100_sleng_445328.m3u8
-#EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id"DarkStreams-233(PutraApps)" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO
-http://eroz84.wap.sh/movies/hbo.m3u8
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-3 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU"tvg-id="Erz.hbosig" tvg-name="HBO Signature" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO Signature
-http://eroz84.wap.sh/movies/hbo_sig.m3u8
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" tvg-id="Erz.hbohits" tvg-name="HBO Hits" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", HBO Hits 
-http://eroz84.wap.sh/movies/hbo_hits.m3u8
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" tvg-id="Erz.hbofam" tvg-name="HBO Family" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HBO Family 
-http://eroz84.wap.sh/movies/hbo_fam.m3u8
-#EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" tvg-id="Erz.cinemax" tvg-name="HBO CINEMAX" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HBO CINEMAX
-http://eroz84.wap.sh/movies/cinemax.m3u8
 #EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="Erz.redhbo" tvg-name="RED HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", RED HBO 
 http://eroz84.wap.sh/movies/hbo_red.m3u8
 #EXTINF:-8 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", FOX
