@@ -39,15 +39,15 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FMN" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", K+
 http://210.210.155.35/session/07172d44-d88c-11eb-bcb2-bd4aa3788ef3/uq2663/h/h08/02.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="Entertainment",chinesedrama_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="DarkStreams TV & Movies",chinesedrama_USEE
 http://gpc.my.id/usee/chinesedrama.m3u8
-#EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN-Eng
+#EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams TV & Movies", tvN-Eng
 https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="tvN-Ind" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="tvN-Ind" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams TV & Movies,tvN-Ind
 http://gpc.my.id/vidio/tvn.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(Vidio)" tvg-name="tvN-Ind(Vidio)" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind (Vidio)
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(Vidio)" tvg-name="tvN-Ind(Vidio)" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams TV & Movies,tvN-Ind (Vidio)
 https://etslive-2-vidio-com.akamaized.net/exp=1624820005~acl=/hls-p/ingest_6362_*/*~hmac=cd46db62e4b0c307673d29e56d1be751a6f49cf386c062a245b86e52b2c01ffb/hls-p/ingest_6362_720p/index.m3u8
-#EXTINF:-19 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvnmovies.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN Movies" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN Movies
+#EXTINF:-19 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvnmovies.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN Movies" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams TV & Movies", tvN Movies
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
