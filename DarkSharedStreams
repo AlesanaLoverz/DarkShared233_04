@@ -15,9 +15,9 @@ http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 http://eroz84.wap.sh/movies/hbo_fam.m3u8
 #EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" tvg-id="Erz.cinemax" tvg-name="HBO CINEMAX" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HBO CINEMAX
 http://eroz84.wap.sh/movies/cinemax.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FMN" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FMN
+#EXTINF:-7 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FMN" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FMN
 http://185.180.221.194:8278/streams/d/Fmn/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="B4U KADAK" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", B4U KADAK
+#EXTINF:-8 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="B4U KADAK" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
 #EXTINF:-31 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" tvg-id="DarkStreams-233(Erz.&flix)" tvg-name="&Flix HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
