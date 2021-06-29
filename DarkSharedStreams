@@ -53,6 +53,8 @@ http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/gem.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="GEM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", GEM
 https://redirector-putraappsoft.herokuapp.com/tv/international/gem.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="Bioskop Indonesia" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Bioskop Indonesia
+https://streaming.useetv.com/dass/130/bioskopindonesia_dash/media_w7715899232_b1004100_sleng_453889.ts
 
 _______DarkStreams INTERNATIONA TV_______
 
