@@ -108,6 +108,8 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8?id=eroz_brebes.m3u8
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-25 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" tvg-id="DarkStreams-233(Erz.Ccm)" tvg-name="Celestial Classic" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Celestial classic
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="Zee Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ZEE Bioskop 
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
@@ -116,8 +118,6 @@ https://streaming.useetv.com/dass/133/hgtv/media_w529411425_b684100_sleng_445328
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" tvg-id="Erz.WB" tvg-name="WarnerBros Tv" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", WarnerBros Tv
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC28/index.m3u8
-#EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="Zee Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", ZEE Bioskop 
-http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-27 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj5tgFmtx9WzvA6xTMeuQoSRpXv9zLH_kV0g&usqp=CAU" tvg-id="DarkStreams-233(Erz.zeeactions)" tvg-name="Zee Actions" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", ZEE Actions
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-28 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEvtEDhmBJ59OsOcTEaTJtcHJKscfD_FHtQ&usqp=CAU" tvg-id="DarkStreams-233(Erz.zeeclassic)" tvg-name="Zee Classic" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Zee Classic
