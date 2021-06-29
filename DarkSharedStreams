@@ -21,6 +21,20 @@ https://nonton.site:8443/provision/pp/1195
 http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" group-title="DarkStreams TV & Movies", MOLA TV FREE
 http://gpc.my.id/vidio/mola-tv-free.m3u8
+#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" tvg-id="DarkStreams-233(Erz.cinemaworld)" tvg-name="Cinema World" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", Cinema World
+http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+http://210.210.155.35:80/uq2663/h/h04/01.m3u8
+#EXTINF:-17 tvg-logo="https://i.imgur.com/eoHuV3J.png" tvg-id="DarkStreams-233" tvg-name="OH!K" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", OH!K
+http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="DarkStreams TV & Movies", Animax
+http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="DarkStreams TV & Movies", Animax2
+http://nonton.site:8888/Alifathaya/e99MqfUxic/3
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams TV & Movies", Aniplus 
+http://45.126.83.51/session/bb213850-d2a3-11eb-adc6-ae8dad4dc6a3/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams TV & Movies", Aniplus2
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
@@ -58,12 +72,6 @@ https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://nonton.site:8443/provision/pp/957
-#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" tvg-id="DarkStreams-233(Erz.cinemaworld)" tvg-name="Cinema World" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", Cinema World
-http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
-http://210.210.155.35:80/uq2663/h/h04/01.m3u8
-#EXTINF:-17 tvg-logo="https://i.imgur.com/eoHuV3J.png" tvg-id="DarkStreams-233" tvg-name="OH!K" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", OH!K
-http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN-Eng
 https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="tvN-Ind" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind
@@ -150,14 +158,6 @@ _______DarkStreams KIDS_______
 https://youtu.be/eRuyQnDMtMI
 #EXTINF:-1 group-title="DarkStreams KIDS",Animax 
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8 
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="DarkStreams KIDS",Animax
-http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="DarkStreams KIDS",Animax2
-http://nonton.site:8888/Alifathaya/e99MqfUxic/3
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams KIDS",Aniplus 
-http://45.126.83.51/session/bb213850-d2a3-11eb-adc6-ae8dad4dc6a3/dr9445/h/h02/02.m3u8
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams KIDS",Aniplus2
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First2
