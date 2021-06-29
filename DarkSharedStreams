@@ -123,6 +123,8 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/sbs-plus.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS PLUS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS PLUS
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/sbs-international.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS INTERNATIONAL" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS INTERNATIONAL
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS STAR" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS STAR
 https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="ZEE CAFE" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", ZEE CAFE
