@@ -178,6 +178,15 @@ _______DarkStreams MUSIC_______
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
 http://gpc.my.id/usee/pramborstv.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainment",The K-POP
+http://gpc.my.id/ytlive/the-kpop.m3u8
+
+_______DarkStreams INTERNATIONAL NEWS CHANNEL_______
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="Entertainment",arirang_USEE
+http://gpc.my.id/usee/arirang.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="Entertainment",nhkworld_USEE
+http://gpc.my.id/usee/nhkworld.m3u8
 
 _______DarkStreams ENTERTAINMENT_______
 
@@ -189,17 +198,25 @@ http://gpc.my.id/vidio/magna-tv.m3u8
 http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
 http://gpc.my.id/usee/cctv4.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="Entertainment",nhkworld_USEE
-http://gpc.my.id/usee/nhkworld.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="eljohn_USEE" group-title="Entertainment",eljohn_USEE
 http://gpc.my.id/usee/eljohn.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="Entertainment",arirang_USEE
-http://gpc.my.id/usee/arirang.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainment",The K-POP
-http://gpc.my.id/ytlive/the-kpop.m3u8
+
 
 _______DarkStreams KIDS & FAMILY_______
 
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="BathokGpc" tvg-name="mykids_USEE" group-title="Kids & Knowledge",mykids_USEE
+http://gpc.my.id/usee/mykids.m3u8
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="Kids & Knowledge",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="Kids & Knowledge",horee
+http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="Kids & Knowledge",da-vinci
+http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="Kids & Knowledge",zoomoo
+http://gpc.my.id/vidio/zoomoo.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="Kids & Knowledge",hip-hip-horee
+http://gpc.my.id/vidio/hip-hip-horee.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams KIDS",STREAMS-233
 https://youtu.be/eRuyQnDMtMI 
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First
@@ -253,24 +270,15 @@ https://nonton.site:8443/6894864475/7163819284/36764
 #EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="DarkStreams KIDS",Zoo Moo HD
 https://nonton.site:8443/6894864475/7163819284/14104
 
-_______DarkStreams KIDS & KNOWLEDGE_______
+_______DarkStreams EDUCATION_______
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="Kids & Knowledge",hip-hip-horee
-http://gpc.my.id/vidio/hip-hip-horee.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="Kids & Knowledge",zoomoo
-http://gpc.my.id/vidio/zoomoo.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="Kids & Knowledge",da-vinci
-http://gpc.my.id/vidio/da-vinci.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="Kids & Knowledge",horee
-http://gpc.my.id/vidio/horee.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="Kids & Knowledge",Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="BathokGpc" tvg-name="mykids_USEE" group-title="Kids & Knowledge",mykids_USEE
-http://gpc.my.id/usee/mykids.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/smithsonian.png" tvg-id="BathokGpc" tvg-name="smithsonian" group-title="Kids & Knowledge",smithsonian
-http://gpc.my.id/vidio/smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tv-edukasi" group-title="Kids & Knowledge",tv-edukasi
 http://gpc.my.id/vidio/tv-edukasi.m3u8
+
+_______DarkStreams KNOWLEDGE_______
+
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/smithsonian.png" tvg-id="BathokGpc" tvg-name="smithsonian" group-title="Kids & Knowledge",smithsonian
+http://gpc.my.id/vidio/smithsonian.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lovenature.png" tvg-id="BathokGpc" tvg-name="love-nature" group-title="Kids & Knowledge",love-nature
 http://gpc.my.id/vidio/love-nature.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Kids & Knowledge",cgtndocumentary_USEE
