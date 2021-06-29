@@ -35,6 +35,20 @@ http://nonton.site:8888/Alifathaya/e99MqfUxic/3
 http://45.126.83.51/session/bb213850-d2a3-11eb-adc6-ae8dad4dc6a3/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams TV & Movies", Aniplus2
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FMN" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Citra Bioskop
+http://gpc.my.id/vidio/citra-bioskop.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FMN" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", K+
+http://210.210.155.35/session/07172d44-d88c-11eb-bcb2-bd4aa3788ef3/uq2663/h/h08/02.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="Entertainment",chinesedrama_USEE
+http://gpc.my.id/usee/chinesedrama.m3u8
+#EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN-Eng
+https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="tvN-Ind" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind
+http://gpc.my.id/vidio/tvn.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(Vidio)" tvg-name="tvN-Ind(Vidio)" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind (Vidio)
+https://etslive-2-vidio-com.akamaized.net/exp=1624820005~acl=/hls-p/ingest_6362_*/*~hmac=cd46db62e4b0c307673d29e56d1be751a6f49cf386c062a245b86e52b2c01ffb/hls-p/ingest_6362_720p/index.m3u8
+#EXTINF:-19 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvnmovies.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN Movies" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN Movies
+http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
@@ -72,14 +86,6 @@ https://cdn6.goprimetime.info/feed/LC28/index.m3u8
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 https://nonton.site:8443/provision/pp/957
-#EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN-Eng
-https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="tvN-Ind" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind
-http://gpc.my.id/vidio/tvn.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvn_small.png" tvg-id="DarkStreams-233(Vidio)" tvg-name="tvN-Ind(Vidio)" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV,tvN-Ind (Vidio)
-https://etslive-2-vidio-com.akamaized.net/exp=1624820005~acl=/hls-p/ingest_6362_*/*~hmac=cd46db62e4b0c307673d29e56d1be751a6f49cf386c062a245b86e52b2c01ffb/hls-p/ingest_6362_720p/index.m3u8
-#EXTINF:-19 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvnmovies.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN Movies" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams INTERNATIONAL TV", tvN Movies
-http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-20 tvg-logo="https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg" tvg-id="DarkStreams-233(Erz.one)" tvg-name="One" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", One 
 http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 http://210.210.155.35:80/uq2663/h/h143/01.m3u8?eroz84.wap.sh.m3u8
@@ -125,8 +131,6 @@ _______DarkStreams ENTERTAINMENT_______
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="Entertainment",zee-bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="BathokGpc" tvg-name="citra-bioskop" group-title="Entertainment",citra-bioskop
-http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="Entertainment",citra-dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
@@ -137,8 +141,6 @@ http://gpc.my.id/vidio/magna-tv.m3u8
 http://gpc.my.id/usee/pramborstv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="Entertainment",musica
 http://gpc.my.id/vidio/musica.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="Entertainment",chinesedrama_USEE
-http://gpc.my.id/usee/chinesedrama.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
 http://gpc.my.id/usee/cctv4.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="Entertainment",outdoor_USEE
