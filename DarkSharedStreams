@@ -51,6 +51,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1624820005~acl=/hls-p/ingest_6362_
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="FOX CRIME" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FOX CRIME
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/gem.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="GEM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", GEM
+https://redirector-putraappsoft.herokuapp.com/tv/international/gem.m3u8
 
 _______DarkStreams INTERNATIONA TV_______
 
