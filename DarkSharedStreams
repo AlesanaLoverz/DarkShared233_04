@@ -174,18 +174,19 @@ http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 _______DarkStreams MUSIC_______
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="Entertainment",citra-dangdut
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="DarkStreams MUSIC",citra-dangdut
 http://gpc.my.id/vidio/citra-dangdut.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="Entertainment",pramborstv_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="DarkStreams MUSIC",pramborstv_USEE
 http://gpc.my.id/usee/pramborstv.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="Entertainment",The K-POP
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="DarkStreams MUSIC",The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
 
 _______DarkStreams INTERNATIONAL NEWS CHANNEL_______
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="Entertainment",arirang_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="DarkStreams INTERNATIONAL NEWS", arirang_USEE
 http://gpc.my.id/usee/arirang.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="Entertainment",nhkworld_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="DarkStreams INTERNATIONAL NEWS", nhkworld_USEE
 http://gpc.my.id/usee/nhkworld.m3u8
 
 _______DarkStreams ENTERTAINMENT_______
@@ -205,84 +206,116 @@ http://gpc.my.id/usee/eljohn.m3u8
 _______DarkStreams KIDS & FAMILY_______
 
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="BathokGpc" tvg-name="mykids_USEE" group-title="Kids & Knowledge",mykids_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mykids_small.png" tvg-id="BathokGpc" tvg-name="mykids_USEE" group-title="DarkStreams KIDS & FAMILY",mykids_USEE
 http://gpc.my.id/usee/mykids.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="Kids & Knowledge",Biznet Kids
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="DarkStreams KIDS & FAMILY",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="Kids & Knowledge",horee
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="DarkStreams KIDS & FAMILY",horee
 http://gpc.my.id/vidio/horee.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="Kids & Knowledge",da-vinci
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="DarkStreams KIDS & FAMILY",da-vinci
 http://gpc.my.id/vidio/da-vinci.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="Kids & Knowledge",zoomoo
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="DarkStreams KIDS & FAMILY",zoomoo
 http://gpc.my.id/vidio/zoomoo.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="Kids & Knowledge",hip-hip-horee
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="BathokGpc" tvg-name="hip-hip-horee" group-title="DarkStreams KIDS & FAMILY",hip-hip-horee
 http://gpc.my.id/vidio/hip-hip-horee.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams KIDS",STREAMS-233
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams KIDS & FAMILY",STREAMS-233
 https://youtu.be/eRuyQnDMtMI 
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS & FAMILY",Baby First
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
-#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS",Baby First2
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS & FAMILY",Baby First2
 https://nonton.site:8443/6894864475/7163819284/1204
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="DarkStreams KIDS",Baby TV
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="DarkStreams KIDS & FAMILY",Baby TV
 https://nonton.site:8443/6894864475/7163819284/296
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="DarkStreams KIDS",Boomerang ID
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="DarkStreams KIDS & FAMILY",Boomerang ID
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS",Cartoon Network ID HD
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS & FAMILY",Cartoon Network ID HD
 http://nonton.site:8888/Athayamanja/SHFTZRKFrF/680
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS",Cartoon Network ID HD2
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS & FAMILY",Cartoon Network ID HD2
 http://nonton.site:8888/Alifathaya/e99MqfUxic/680
-#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="DarkStreams KIDS",CBeebies
+#EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="DarkStreams KIDS & FAMILY",CBeebies
 https://nonton.site:8443/6894864475/7163819284/491
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="DarkStreams KIDS",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="DarkStreams KIDS & FAMILY",Disney Channel
 http://tvku.live:8888/Ainamanja/RPLf79Gusm/3479
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="DarkStreams KIDS",Disney Channel ID
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="DarkStreams KIDS & FAMILY",Disney Channel ID
 https://nonton.site:8443/6894864475/7163819284/3479
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="DarkStreams KIDS",Disney Junior
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="DarkStreams KIDS & FAMILY",Disney Junior
 https://nonton.site:8443/6894864475/7163819284/213
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="DarkStreams KIDS",Disney Junior(link2)
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="DarkStreams KIDS & FAMILY",Disney Junior(link2)
 https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/213?token=QhBYV0dYRg4TXlJUBQUEBAMEUQUEDlVQAAFRBwNVUgdYCgYAUFNdUQMaSBAQEEJXVQhvWgIbCVcIBxwTFEUEEGZbVBQOElUEAwpTBkFIEkZdCFURXAgFVwgHBANQA1lOG0JZUhYKRgUBClEFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDDlJaGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUFREbHhJfR28WUUJMFlcCCVVAFl8SA0QVEQhYTG9SDlgPB1pGWVlaQ0YOEwpGHkEJX1xdEV9BOUlaARsOEgBRBlBWG08=
-#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DarkStreams KIDS",Disney UK
+#EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DarkStreams KIDS & FAMILY",Disney UK
 https://nonton.site:8443/6894864475/7163819284/2336
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="DarkStreams KIDS",Disney XD
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" group-title="DarkStreams KIDS & FAMILY",Disney XD
 https://nonton.site:8443/6894864475/7163819284/104
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="DarkStreams KIDS",Dream Works HD
 https://cgk1.securepath.site:443/Alifathaya/e99MqfUxic/32529?token=QhBYV0dYRg4TD1dUV1VSBlUHBwBUCgdQDVZWCFcBVwEJV1MHAVFcBFUaSBAQEEJXVQhvWgIbCVYLAQIITRQUEVxAb19QEl4WAAhVA1RQEh4WEVleAxsJVA8GAQNXB1JXDB4SRl1URg4TCVYLWlwCEBhHVUsSXEELWFhvVQRACAFcEApYQVwIGBNXCm0HAV1TWgESCUQJEUkbXUNBQwxDMm0cEGJxfC97fBgtfCcrfndnLHERShtRDE1GUUUEFFtACAEGBBYcRldeTQpGER0SCBYsdBFKG1YdTVFeQghZD0ADEERFFhxGXUJnFlcQEEJXVQhVQUQDEVUbGBJcAE4+AVZcXlNXRA1bX0tGCEFWEh4WCF9dD01cF2ZEWVVDDENUCgYFBxZN
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DarkStreams KIDS",Duck TV
+#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="DarkStreams KIDS & FAMILY",Duck TV
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="DarkStreams KIDS",Dunia Anak
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="DarkStreams KIDS & FAMILY",Dunia Anak
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
-#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="DarkStreams KIDS",Horee
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="DarkStreams KIDS & FAMILY",Horee
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=horee
-#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="DarkStreams KIDS",My Kidz
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="DarkStreams KIDS & FAMILY",My Kidz
 http://210.210.155.35/session/5f0b1748-bf57-11eb-ba48-c81f66f89318/uq2663/h/h98/index.m3u8
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="Nick Jr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="DarkStreams KIDS",Nick Jr 2
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/165107
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="DarkStreams KIDS",Nick Jr ID
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="DarkStreams KIDS & FAMILY",Nick Jr ID
 http://nonton.site:8888/Alifathaya/e99MqfUxic/522
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="DarkStreams KIDS",Nick Toons
 https://nonton.site:8443/6894864475/7163819284/335
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="DarkStreams KIDS",Nickelodeon ID
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon ID" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="DarkStreams KIDS & FAMILY",Nickelodeon ID
 http://nonton.site:8888/Alifathaya/e99MqfUxic/962
-#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="DarkStreams KIDS",Toonmax
+#EXTINF:-1 tvg-id="" tvg-name="Toonmax" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="DarkStreams KIDS & FAMILY",Toonmax
 https://nonton.site:8443/6894864475/7163819284/1116
-#EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="DarkStreams KIDS",XingXong
+#EXTINF:-1 tvg-id="" tvg-name="XingXong" tvg-logo="" group-title="DarkStreams KIDS & FAMILY",XingXong
 https://nonton.site:8443/6894864475/7163819284/36764
-#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="DarkStreams KIDS",Zoo Moo HD
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" group-title="DarkStreams KIDS & FAMILY",Zoo Moo HD
 https://nonton.site:8443/6894864475/7163819284/14104
 
 _______DarkStreams EDUCATION_______
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tv-edukasi" group-title="Kids & Knowledge",tv-edukasi
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tv-edukasi" group-title="DarkStreams EDUCATION",tv-edukasi
 http://gpc.my.id/vidio/tv-edukasi.m3u8
 
 _______DarkStreams KNOWLEDGE_______
 
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/smithsonian.png" tvg-id="BathokGpc" tvg-name="smithsonian" group-title="Kids & Knowledge",smithsonian
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/smithsonian.png" tvg-id="BathokGpc" tvg-name="smithsonian" group-title="DarkStreams KNOWLEDGE",smithsonian
 http://gpc.my.id/vidio/smithsonian.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lovenature.png" tvg-id="BathokGpc" tvg-name="love-nature" group-title="Kids & Knowledge",love-nature
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/lovenature.png" tvg-id="BathokGpc" tvg-name="love-nature" group-title="DarkStreams KNOWLEDGE",love-nature
 http://gpc.my.id/vidio/love-nature.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="Kids & Knowledge",cgtndocumentary_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cgtndocumentary_USEE" group-title="DarkStreams KNOWLEDGE",cgtndocumentary_USEE
 http://gpc.my.id/usee/cgtndocumentary.m3u8
+#EXTINF:-1  group-title="DarkStreams KNOWLEDGE", DIGIONE MAXstream
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+#EXTINF:-1  group-title="DarkStreams KNOWLEDGE", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 group-title="DarkStreams KNOWLEDGE", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+#EXTINF:-1 group-title="DarkStreams KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
+#EXTINF:-1 group-title="DarkStreams KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", ANIMAL PLANET
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
+#EXTINF:-1  group-title="DarkStreams KNOWLEDGE", Animal Planet HD
+https://nonton.site:8443/6894864475/7163819284/358 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="DarkStreams KNOWLEDGE", History 
+http://iptvtree.net:8080/test-220471/4008/162519
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DarkStreams KNOWLEDGE", National Geographic (id)
+https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/96?token=QhBYV0dYRg4TWgUDVFEFAFJQVgAECFVXAAwFAgIFAAYBVlNUAgBWDAIaSBAQEEJXVQhvWgIbCVwPGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVwwBBQRXAE1ASVtUFA4SXQYDD0YeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDFmBlTxY1J3V5f3sUeSpwfnYhYSolEh4WB1lHFFhHABsOEgBUDlFAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWAglUAkMf
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DarkStreams KNOWLEDGE", National Geographic (2)
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
+#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="DarkStreams KNOWLEDGE", National Geographic (V)
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="DarkStreams KNOWLEDGE", Nat Geo People 
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DarkStreams KNOWLEDGE", Nat Geo Wild 
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="DarkStreams KNOWLEDGE", Nat Geo Wild (V)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
+#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="DarkStreams KNOWLEDGE",Discovery Asia (V)
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="DarkStreams KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Asia
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+#EXTINF:-1 group-title="DarkStreams KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157597
 
 _______DarkStreams MOVIES_______
 
@@ -459,42 +492,7 @@ http://gpc.my.id/usee/uchannel.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="DarkStreams USEE",rodjatv_USEE
 http://gpc.my.id/usee/rodjatv.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="muitv_USEE" group-title="Lokal",muitv_USEE
-http://gpc.my.id/usee/muitv.m3u8
- 
-_______DarkStreams KNOWLEDGE_______
- 
-#EXTINF:-1  group-title="Knowledge",DIGIONE MAXstream
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
-#EXTINF:-1  group-title="Knowledge", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/273840
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", ANIMAL PLANET
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/162514
-#EXTINF:-1  group-title="Knowledge",Animal Planet HD
-https://nonton.site:8443/6894864475/7163819284/358 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/history.png" group-title="Knowledge", History 
-http://iptvtree.net:8080/test-220471/4008/162519
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (id)
-https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/96?token=QhBYV0dYRg4TWgUDVFEFAFJQVgAECFVXAAwFAgIFAAYBVlNUAgBWDAIaSBAQEEJXVQhvWgIbCVwPGBJEElMTPVBWEgwWAVQGAw9QEE9GRFtZABIJVw8BVwwBBQRXAE1ASVtUFA4SXQYDD0YeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDFmBlTxY1J3V5f3sUeSpwfnYhYSolEh4WB1lHFFhHABsOEgBUDlFAFRBTWUFeEEZIGl4QKiASHhYASEcDV0AMVloSC0NCEkAVEFlFa0IBR0VKAVMOAUIQDkcAEUobXgRBa1NeD1gEAU1bX1hHEl4WAxpIEA4LXltACkJsFlBXRwMWAglUAkMf
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (2)
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 tvg-id="natgeo" tvg-logo="http://kamiselaluada.com/img/ngc.png" group-title="Knowledge", National Geographic (V)
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeopeople.png" group-title="Knowledge", Nat Geo People 
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild 
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/natgeowild.png" group-title="Knowledge", Nat Geo Wild (V)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8 
-#EXTINF:-1 tvg-logo="http://kamiselaluada.com/img/discoverychannel.png" group-title="Knowledge",Discovery Asia (V)
-http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Asia
-http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
-http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157597
+http://gpc.my.id/usee/muitv.m3u8 
 
 _______DarkStreams SPORTS_______
 
