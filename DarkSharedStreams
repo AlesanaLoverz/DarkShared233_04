@@ -388,12 +388,14 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b3840
 
 _______DarkStreams-INDONESIAN NEWS_______
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jtv_USEE" group-title="DarkStreams-INDONESIAN NEWS",jtv_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="jtv_USEE" group-title="DarkStreams-INDONESIAN NEWS",jtv_USEE
 http://gpc.my.id/usee/jtv.m3u8
-#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/jakarta-globe-news.jpg" tvg-id="SkuysFlix" tvg-name="JAKARTA GLOBAL" group-title="DarkStreams-INDONESIAN NEWS", JAKARTA GLOBAL
+#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/jakarta-globe-news.jpg" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="JAKARTA GLOBAL" group-title="DarkStreams-INDONESIAN NEWS", JAKARTA GLOBAL
 https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8?ssrcb=eroz_brebes.m3u8
-#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="BathokGpc" tvg-name="TV ONE" group-title="DarkStreams-INDONESIAN NEWS", TV ONE
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="TV ONE" group-title="DarkStreams-INDONESIAN NEWS", TV ONE
 http://gpc.my.id/ytlive/tvone.m3u8
+#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/berita-satu-world.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="BERITA SATU WORLD" group-title="DarkStreams-INDONESIAN NEWS", BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="DarkStreams-INDONESIAN NEWS",beritasatu
 http://gpc.my.id/vidio/beritasatu.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="DarkStreams-INDONESIAN NEWS",metro-tv
