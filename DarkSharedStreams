@@ -185,6 +185,8 @@ http://gpc.my.id/usee/pramborstv.m3u8
 http://gpc.my.id/ytlive/the-kpop.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="Entertainment",musica
 http://gpc.my.id/vidio/musica.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="No Subtitles",zing
+http://gpc.my.id/vidio/zing.m3u8
 
 _______DarkStreams INTERNATIONAL NEWS CHANNEL_______
 
@@ -199,7 +201,7 @@ http://gpc.my.id/usee/france24.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_abcaustralia_small.png" tvg-id="BathokGpc" tvg-name="abcaustralia_USEE" group-title="News",abcaustralia_USEE
 http://gpc.my.id/usee/abcaustralia.m3u8
 
-_______DarkStreams ENTERTAINMENT_______
+_______ENTERTAINMENT_______
 
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="Entertainment",magna-tv
 http://gpc.my.id/vidio/magna-tv.m3u8
@@ -322,6 +324,18 @@ http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3
 http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 #EXTINF:-1 group-title="DarkStreams KNOWLEDGE" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwni4LJ6hZCzHntvSiPvALtERTI3i-p-2NBjVLf9296M=s88-c-k-c0x00ffffff-no-rj", Discovery Channel
 http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/157597
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="DarkStreams USEE",useephoto_USEE
+http://gpc.my.id/usee/useephoto.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_small.png" tvg-id="BathokGpc" tvg-name="idx_USEE" group-title="News",idx_USEE
+http://gpc.my.id/usee/idx.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="sea-today" group-title="News",sea-today
+http://gpc.my.id/vidio/sea-today.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dw-english" group-title="News",dw-english
+http://gpc.my.id/vidio/dw-english.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dwtv_USEE" group-title="News",dwtv_USEE
+http://gpc.my.id/usee/dwtv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="News",seatoday_USEE
+http://gpc.my.id/usee/seatoday.m3u8
 
 _______DarkStreams INDONESIAN TV_______
 
@@ -475,7 +489,7 @@ http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams 2",STREAMS 10
 http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8 
 
-_______DarkStreams EURO_______
+_______EURO_______
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams EURO" ,EURO STREAMS 1
 http://134.19.182.131:8080/edg11_2.m3u8
@@ -492,7 +506,7 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams EURO" ,EURO STREAMS 7
 https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/index_4.m3u8
 
-_______DarkStreams LOKAL_______
+_______LOKAL_______
 
 #EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="DarkStreams LOKAL",Fatwa TV
 http://gpc.my.id/ytlive/fatwa-tv.m3u8
@@ -502,14 +516,13 @@ _______DarkStreams REALIGI_______
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="DarkStreams USEE",tawaftv_USEE
 http://gpc.my.id/usee/tawaftv.m3u8
 
-_______DarkStreams USEE_______
+_______USEE_______
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams USEE",STREAMS-233
 https://youtu.be/eRuyQnDMtMI
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="DarkStreams USEE",useeinfo_USEE
 http://gpc.my.id/usee/useeinfo.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="useephoto_USEE" group-title="DarkStreams USEE",useephoto_USEE
-http://gpc.my.id/usee/useephoto.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rrinet_USEE" group-title="DarkStreams USEE",rrinet_USEE
 http://gpc.my.id/usee/rrinet.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jtv_USEE" group-title="DarkStreams USEE",jtv_USEE
@@ -556,20 +569,6 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport4" group-title="Sport",AstroSuperSport4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
-_______DarkStreams NEWS_______
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_idx_small.png" tvg-id="BathokGpc" tvg-name="idx_USEE" group-title="News",idx_USEE
-http://gpc.my.id/usee/idx.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="sea-today" group-title="News",sea-today
-http://gpc.my.id/vidio/sea-today.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dw-english" group-title="News",dw-english
-http://gpc.my.id/vidio/dw-english.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_dwtv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="dwtv_USEE" group-title="News",dwtv_USEE
-http://gpc.my.id/usee/dwtv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_seatoday_small.png?v=1" tvg-id="BathokGpc" tvg-name="seatoday_USEE" group-title="News",seatoday_USEE
-http://gpc.my.id/usee/seatoday.m3u8
-
 _______DarkStreams NO SUBTITLES_______
 
-#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="No Subtitles",zing
-http://gpc.my.id/vidio/zing.m3u8
+
