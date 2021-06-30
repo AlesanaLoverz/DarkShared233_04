@@ -281,9 +281,9 @@ _______DarkStreams EDUCATION_______
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="tv-edukasi" group-title="DarkStreams EDUCATION",tv-edukasi
 http://gpc.my.id/vidio/tv-edukasi.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-id="BathokGpc" tvg-name="mytv" group-title="DarkStreams LOKAL",TVKU
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-id="BathokGpc" tvg-name="mytv" group-title="DarkStreams EDUCATION",TVKU
 http://gpc.my.id/vidio/mytv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="RUANG TAMPIL" group-title="DarkStreams USEE", RUANG TAMPIL 
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="RUANG TAMPIL" group-title="DarkStreams EDUCATION", RUANG TAMPIL 
 http://gpc.my.id/usee/useeinfo.m3u8
 
 _______DarkStreams KNOWLEDGE_______
