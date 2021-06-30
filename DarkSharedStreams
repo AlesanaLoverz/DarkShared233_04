@@ -183,9 +183,9 @@ http://gpc.my.id/vidio/citra-dangdut.m3u8
 http://gpc.my.id/usee/pramborstv.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="DarkStreams MUSIC",The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="Entertainment",musica
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="DarkStreams MUSIC",musica
 http://gpc.my.id/vidio/musica.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="No Subtitles",zing
+#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="DarkStreams MUSIC",zing
 http://gpc.my.id/vidio/zing.m3u8
 
 _______DarkStreams INTERNATIONAL NEWS_______
