@@ -527,7 +527,7 @@ http://gpc.my.id/usee/jtv.m3u8
 http://gpc.my.id/usee/uchannel.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rodjatv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rodjatv_USEE" group-title="DarkStreams USEE",rodjatv_USEE
 http://gpc.my.id/usee/rodjatv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="muitv_USEE" group-title="Lokal",muitv_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="muitv_USEE" group-title="DarkStreams USEE",muitv_USEE
 http://gpc.my.id/usee/muitv.m3u8 
 
 _______DarkStreams SPORTS_______
