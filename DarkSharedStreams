@@ -188,7 +188,7 @@ http://gpc.my.id/vidio/musica.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="No Subtitles",zing
 http://gpc.my.id/vidio/zing.m3u8
 
-_______DarkStreams INTERNATIONAL NEWS CHANNEL_______
+_______DarkStreams INTERNATIONAL NEWS_______
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="DarkStreams INTERNATIONAL NEWS", arirang_USEE
 http://gpc.my.id/usee/arirang.m3u8
@@ -283,6 +283,8 @@ _______DarkStreams EDUCATION_______
 http://gpc.my.id/vidio/tv-edukasi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Mayapada_TV.png" tvg-id="BathokGpc" tvg-name="mytv" group-title="DarkStreams LOKAL",TVKU
 http://gpc.my.id/vidio/mytv.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="RUANG TAMPIL" group-title="DarkStreams USEE", RUANG TAMPIL 
+http://gpc.my.id/usee/useeinfo.m3u8
 
 _______DarkStreams KNOWLEDGE_______
 
@@ -506,23 +508,17 @@ http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams EURO" ,EURO STREAMS 7
 https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/index_4.m3u8
 
-_______LOKAL_______
-
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="DarkStreams LOKAL",Fatwa TV
-http://gpc.my.id/ytlive/fatwa-tv.m3u8
-
 _______DarkStreams REALIGI_______
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="DarkStreams USEE",tawaftv_USEE
 http://gpc.my.id/usee/tawaftv.m3u8
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="DarkStreams LOKAL",Fatwa TV
+http://gpc.my.id/ytlive/fatwa-tv.m3u8
 
 _______USEE_______
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams USEE",STREAMS-233
 https://youtu.be/eRuyQnDMtMI
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_small.png?v=2.0.1.16" tvg-id="BathokGpc" tvg-name="useeinfo_USEE" group-title="DarkStreams USEE",useeinfo_USEE
-http://gpc.my.id/usee/useeinfo.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_rri_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="rrinet_USEE" group-title="DarkStreams USEE",rrinet_USEE
 http://gpc.my.id/usee/rrinet.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_jtv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="jtv_USEE" group-title="DarkStreams USEE",jtv_USEE
@@ -568,7 +564,4 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-astro-supersport-4-256.png" tvg-id="BathokGpc" tvg-name="AstroSuperSport4" group-title="Sport",AstroSuperSport4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
-
-_______DarkStreams NO SUBTITLES_______
-
 
