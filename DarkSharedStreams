@@ -386,36 +386,43 @@ http://gpc.my.id/usee/useeprime.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="DarkStreams LOKAL",CNN-Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
 
-_______DarkStreams INDONESIAN NEWS_______
+_______DarkStreams-INDONESIAN NEWS_______
 
-#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="BathokGpc" tvg-name="Tv-One" group-title="DarkStreams LOKAL",Tv-One
+#EXTINF:-1 tvg-logo="http://pic.dens.tv/tv_150x150/TVOne_1.png" tvg-id="BathokGpc" tvg-name="Tv-One" group-title="DarkStreams-INDONESIAN NEWS",Tv-One
 http://gpc.my.id/ytlive/tvone.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="DarkStreams LOKAL",beritasatu
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="DarkStreams-INDONESIAN NEWS",beritasatu
 http://gpc.my.id/vidio/beritasatu.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="DarkStreams LOKAL",metro-tv
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="DarkStreams-INDONESIAN NEWS",metro-tv
 http://gpc.my.id/vidio/metro-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="DarkStreams LOKAL",kompas-tv
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="DarkStreams-INDONESIAN NEWS",kompas-tv
 http://gpc.my.id/vidio/kompas-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="BathokGpc" tvg-name="inews" group-title="DarkStreams LOKAL",inews
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="BathokGpc" tvg-name="inews" group-title="DarkStreams-INDONESIAN NEWS",inews
 http://gpc.my.id/vidio/inews.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="News",metro-tv
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_metrotv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="metro-tv" group-title="DarkStreams-INDONESIAN NEWS",metro-tv
 http://gpc.my.id/vidio/metro-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" tvg-id="BathokGpc" tvg-name="mncnews_USEE" group-title="News",mncnews_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mncnews_small.png" tvg-id="BathokGpc" tvg-name="mncnews_USEE" group-title="DarkStreams-INDONESIAN NEWS",mncnews_USEE
 http://gpc.my.id/usee/mncnews.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="News",kompas-tv
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_kompastv_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="kompas-tv" group-title="DarkStreams-INDONESIAN NEWS",kompas-tv
 http://gpc.my.id/vidio/kompas-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="DarkStreams LOKAL",CNBC-Indonesia
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="DarkStreams-INDONESIAN NEWS",CNBC-Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="antara_USEE" group-title="DarkStreams USEE",antara_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_antara_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="antara_USEE" group-title="DarkStreams-INDONESIAN NEWS",antara_USEE
 http://gpc.my.id/usee/antara.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="BathokGpc" tvg-name="inews" group-title="News",inews
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_inews_small.png" tvg-id="BathokGpc" tvg-name="inews" group-title="DarkStreams-INDONESIAN NEWS",inews
 http://gpc.my.id/vidio/inews.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="News",CNN-Indonesia
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnnindonesia_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CNN-Indonesia" group-title="DarkStreams-INDONESIAN NEWS", CNN-Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w987255908_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="News",CNBC-Indonesia
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cnbcid_small.png" tvg-id="BathokGpc" tvg-name="CNBC-Indonesia" group-title="DarkStreams-INDONESIAN NEWS", CNBC-Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1741399868_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="News",beritasatu
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_beritasatu_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="beritasatu" group-title="DarkStreams-INDONESIAN NEWS",beritasatu
 http://gpc.my.id/vidio/beritasatu.m3u8
+
+_______DarkStreams REALIGI_______
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="DarkStreams REALIGI",tawaftv_USEE
+http://gpc.my.id/usee/tawaftv.m3u8
+#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="DarkStreams REALIGI",Fatwa TV
+http://gpc.my.id/ytlive/fatwa-tv.m3u8
 
 _______DarkStreams MOVIES_______
 
@@ -507,13 +514,6 @@ https://aws-br.cdn.booyah.live/hls/1000072/71112076.m3u8
 http://103.109.56.116/live/skyfeed1018/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1KcSpO712CM/YNXCeh4UaYI/AAAAAAAAAAM/G6llDcQYLMAiDEtR06v9b43C4zofcDe4wCLcBGAsYHQ/s554/1624621154932.png" group-title="DarkStreams EURO" ,EURO STREAMS 7
 https://d2p8o5fjudh029.cloudfront.net/out/v1/3c03ab735c034f59871dfc2e19f6840d/index_4.m3u8
-
-_______DarkStreams REALIGI_______
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tawaftv_small.png" tvg-id="BathokGpc" tvg-name="tawaftv_USEE" group-title="DarkStreams USEE",tawaftv_USEE
-http://gpc.my.id/usee/tawaftv.m3u8
-#EXTINF:-1 tvg-logo="http://live.artvisi.or.id/logo/fatwatv.png" tvg-id="BathokGpc" tvg-name="Fatwa TV" group-title="DarkStreams LOKAL",Fatwa TV
-http://gpc.my.id/ytlive/fatwa-tv.m3u8
 
 _______USEE_______
 
