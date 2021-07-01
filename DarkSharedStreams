@@ -216,6 +216,8 @@ _______DarkStreams KIDS & FAMILY_______
 http://gpc.my.id/usee/mykids.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" tvg-id="BathokGpc" tvg-name="Biznet Kids" group-title="DarkStreams KIDS & FAMILY",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="HIP HIP HORE" group-title="DarkStreams KIDS & FAMILY", HIP HIP HORE
+https://etslive-2-vidio-com.akamaized.net/exp=1625113608~acl=/hls-p/ingest_7052_*/*~hmac=1c4b350342120c1023fac18556fcd79bc597336260916d28cced1874e2b07060/hls-p/ingest_7052_360p/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="DarkStreams KIDS & FAMILY",horee
 http://gpc.my.id/vidio/horee.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarksStreams-233(BathokGpc)" tvg-name="EBS KIDS" group-title="DarkStreams KIDS & FAMILY",EBS KIDS
