@@ -226,6 +226,8 @@ http://gpc.my.id/vidio/hip-hip-horee.m3u8
 http://gpc.my.id/vidio/horee.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="PINKFONG" group-title="DarkStreams KIDS & FAMILY", PINKFONG
 https://newidco-babysharktv-1.roku.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="TVO KIDS" group-title="DarkStreams KIDS & FAMILY", TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/300k/300k.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarksStreams-233(BathokGpc)" tvg-name="EBS KIDS" group-title="DarkStreams KIDS & FAMILY",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w1987166525.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="ZooMoo" group-title="DarkStreams KIDS & FAMILY", ZooMoo
