@@ -219,8 +219,10 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="DA VINCI KIDS" group-title="DarkStreams KIDS & FAMILY", DA VINCI KIDS
 https://etslive-2-vidio-com.akamaized.net/exp=1625162642~acl=/hls-p/ingest_6549_*/*~hmac=82a29083992edfeb83745cb8d866ed483ef6d442aa974dfa8d6f626fcbe356dc/hls-p/ingest_6549_720p/index.m3u8
 http://gpc.my.id/vidio/da-vinci.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="KIDOODLE TV" group-title="DarkStreams KIDS & FAMILY", KIDOODLE TV
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="KIDOODLE TV" group-title="DarkStreams KIDS & FAMILY", KIDOODLE TV
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="HAPPY KIDS" group-title="DarkStreams KIDS & FAMILY", HAPPY KIDS
+https://happykids-vizio.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJMig9F2Yzq61QiF_kBSvLgopXKe14g-lkRiAT88AYnIwQy3iEOrXTTxxpieLKh798Ig&usqp=CAU" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="HIP HIP HORE" group-title="DarkStreams KIDS & FAMILY", HIP HIP HORE
 https://etslive-2-vidio-com.akamaized.net/exp=1625162431~acl=/hls-p/ingest_7052_*/*~hmac=c34b004f9f3fdc9bb0b90cf0c7d7e3c6a2b44289b2952ad8ad8a137e90b772b1/hls-p/ingest_7052_720p/index.m3u8
 http://gpc.my.id/vidio/hip-hip-horee.m3u8
