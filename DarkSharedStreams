@@ -218,6 +218,8 @@ http://gpc.my.id/usee/mykids.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_horee_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="horee" group-title="DarkStreams KIDS & FAMILY",horee
 http://gpc.my.id/vidio/horee.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarksStreams-233(BathokGpc)" tvg-name="EBS KIDS" group-title="DarkStreams KIDS & FAMILY",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w1987166525.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="da-vinci" group-title="DarkStreams KIDS & FAMILY",da-vinci
 http://gpc.my.id/vidio/da-vinci.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Zoomoo_logo.png/revision/latest?cb=20200703225249" tvg-id="BathokGpc" tvg-name="zoomoo" group-title="DarkStreams KIDS & FAMILY",zoomoo
