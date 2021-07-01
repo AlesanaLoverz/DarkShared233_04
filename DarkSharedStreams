@@ -238,17 +238,14 @@ http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS & FAMILY", Cartoon Network ID HD
 http://nonton.site:8888/Athayamanja/SHFTZRKFrF/680
-#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS & FAMILY", Cartoon Network ID HD2
 http://nonton.site:8888/Alifathaya/e99MqfUxic/680
 #EXTINF:-1 tvg-id="" tvg-name="CBeebies" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" group-title="DarkStreams KIDS & FAMILY", CBeebies
-https://nonton.site:8443/6894864475/7163819284/491
+http://185.180.221.194:8278/streams/d/Cbeebies/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="DarkStreams KIDS & FAMILY", Disney Channel
 http://tvku.live:8888/Ainamanja/RPLf79Gusm/3479
-#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel ID" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="DarkStreams KIDS & FAMILY", Disney Channel ID
 https://nonton.site:8443/6894864475/7163819284/3479
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="DarkStreams KIDS & FAMILY", DISNEY JUNIOR
 https://nonton.site:8443/6894864475/7163819284/213
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="DISNEY JUNIOR" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="DarkStreams KIDS & FAMILY", DISNEY JUNIOR(link2)
 https://cgk1.securepath.site:443/Ainamanja/RPLf79Gusm/213?token=QhBYV0dYRg4TXlJUBQUEBAMEUQUEDlVQAAFRBwNVUgdYCgYAUFNdUQMaSBAQEEJXVQhvWgIbCVcIBxwTFEUEEGZbVBQOElUEAwpTBkFIEkZdCFURXAgFVwgHBANQA1lOG0JZUhYKRgUBClEFQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgoTMWJPQm13fH17fUR9f3wrfCY3eXMWSRJRD01BBE1REgtDDlJaGx4SVVtFCkBDQUYIQS10EBhHVUsSXF0WUFteE1sUFREbHhJfR28WUUJMFlcCCVVAFl8SA0QVEQhYTG9SDlgPB1pGWVlaQ0YOEwpGHkEJX1xdEV9BOUlaARsOEgBRBlBWG08=
 #EXTINF:-1 tvg-id="" tvg-name="Disney UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" group-title="DarkStreams KIDS & FAMILY",Disney UK
 https://nonton.site:8443/6894864475/7163819284/2336
