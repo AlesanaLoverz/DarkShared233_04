@@ -262,7 +262,8 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=ducktv
 http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=duniaanak
 #EXTINF:-1 tvg-id="NickJrToo.uk" tvg-name="NICK JR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="DarkStreams KIDS & FAMILY",NICK JR 2
 http://iptvstream.xyz:8080/Mcnsi/7210db0d/165107
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="DarkStreams KIDS & FAMILY",NICK JR
+#EXTINF:-1 tvg-id="DarkStream-233(SkuysFlix)" tvg-name="NICK JR" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="DarkStreams KIDS & FAMILY",NICK JR
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 http://nonton.site:8888/Alifathaya/e99MqfUxic/522
 #EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" group-title="DarkStreams KIDS & FAMILY",NICK TOONS
 https://nonton.site:8443/6894864475/7163819284/335
