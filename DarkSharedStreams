@@ -236,7 +236,7 @@ http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=babyfirst
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="DarkStreams KIDS & FAMILY",Baby First2
 https://nonton.site:8443/6894864475/7163819284/1204
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="DarkStreams KIDS & FAMILY",Baby TV
-https://nonton.site:8443/6894864475/7163819284/296
+http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="DarkStreams KIDS & FAMILY",Boomerang ID
 http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="DarkStreams KIDS & FAMILY",Cartoon Network ID HD
