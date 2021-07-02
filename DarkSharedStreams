@@ -219,6 +219,8 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_davinci_small1.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="DA VINCI KIDS" group-title="DarkStreams KIDS & FAMILY", DA VINCI KIDS
 https://etslive-2-vidio-com.akamaized.net/exp=1625162642~acl=/hls-p/ingest_6549_*/*~hmac=82a29083992edfeb83745cb8d866ed483ef6d442aa974dfa8d6f626fcbe356dc/hls-p/ingest_6549_720p/index.m3u8
 http://gpc.my.id/vidio/da-vinci.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="TOON GOOGLES" group-title="DarkStreams KIDS & FAMILY", TOON GOOGLES
+https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="KIDOODLE TV" group-title="DarkStreams KIDS & FAMILY", KIDOODLE TV
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="HAPPY KIDS" group-title="DarkStreams KIDS & FAMILY", HAPPY KIDS
