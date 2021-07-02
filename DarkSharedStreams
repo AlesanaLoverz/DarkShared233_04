@@ -221,6 +221,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1625162642~acl=/hls-p/ingest_6549_
 http://gpc.my.id/vidio/da-vinci.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="TOON GOOGLES" group-title="DarkStreams KIDS & FAMILY", TOON GOOGLES
 https://toongoggles-toongoggles-3-gb.samsung.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="SUPER TOONS" group-title="DarkStreams KIDS & FAMILY", SUPER TOONS
+https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="KIDOODLE TV" group-title="DarkStreams KIDS & FAMILY", KIDOODLE TV
 https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/1200.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="HAPPY KIDS" group-title="DarkStreams KIDS & FAMILY", HAPPY KIDS
