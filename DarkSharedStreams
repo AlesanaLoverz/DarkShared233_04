@@ -30,9 +30,9 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfziuDw_ecD_F38ayq0-IRTQqw_vmtIRTSoQ&usqp=CAU" tvg-id="Erz.hits" tvg-name="HITS" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 https://nonton.site:8443/provision/pp/1195
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="citra-drama" group-title="DarkStreams TV & Movies", CITRA DRAMA
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradrama_small.png?v=2.0.0.15" tvg-id="BathokGpc" tvg-name="citra-drama" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CITRA DRAMA
 http://gpc.my.id/vidio/citra-drama.m3u8
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" group-title="DarkStreams TV & Movies", MOLA TV FREE
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", MOLA TV FREE
 http://gpc.my.id/vidio/mola-tv-free.m3u8
 #EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" tvg-id="DarkStreams-233(Erz.cinemaworld)" tvg-name="Cinema World" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", Cinema World
 http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
@@ -40,18 +40,18 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 http://210.210.155.35:80/uq2663/h/h04/01.m3u8
 #EXTINF:-17 tvg-logo="https://i.imgur.com/eoHuV3J.png" tvg-id="DarkStreams-233" tvg-name="OH!K" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-id="DarkStreams-233(Animax.id)" tvg-name="Animax"  group-title="DarkStreams TV & Movies", Animax
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-id="DarkStreams-233(Animax.id)" tvg-name="Animax" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Animax
 http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3 
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 http://nonton.site:8888/Alifathaya/e99MqfUxic/3
-#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="DarkStreams TV & Movies", Aniplus 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-country="" tvg-language=" group-title="DarkStreams TV & Movies", Aniplus 
 http://45.126.83.51/session/bb213850-d2a3-11eb-adc6-ae8dad4dc6a3/dr9445/h/h02/02.m3u8
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="Citra Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Citra Bioskop
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="K+" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", K+
 http://210.210.155.35/session/07172d44-d88c-11eb-bcb2-bd4aa3788ef3/uq2663/h/h08/02.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" group-title="DarkStreams TV & Movies",chinesedrama_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" tvg-country="" tvg-language=" group-title="DarkStreams TV & Movies",chinesedrama_USEE
 http://gpc.my.id/usee/chinesedrama.m3u8
 #EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams TV & Movies", tvN-Eng
 https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
@@ -110,9 +110,9 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="Zee Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ZEE Bioskop 
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" group-title="DarkStreams TV & Movies",zee-bioskop
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies",zee-bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" group-title="Entertainment",citra-entertainment
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" tvg-country="" tvg-language="" group-title="Entertainment",citra-entertainment
 http://gpc.my.id/vidio/citra-entertainment.m3u8
 
 _______DarkStreams INTERNATIONAL TV_______
