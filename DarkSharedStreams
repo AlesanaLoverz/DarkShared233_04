@@ -124,6 +124,8 @@ _______DarkStreams INTERNATIONAL TV_______
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="OUTDOOR TV" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", OUTDOOR TV
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/champions-tv-3.jpg" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="HELLO" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="DarkStreams INTERNATIONAL TV",outdoor_USEE
 http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/sbs-plus.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS PLUS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS PLUS
