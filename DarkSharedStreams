@@ -126,7 +126,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/champions-tv-3.jpg" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="HELLO" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="outdoor_USEE" group-title="DarkStreams INTERNATIONAL TV",outdoor_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="outdoor_USEE" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV",outdoor_USEE
 http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/sbs-plus.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS PLUS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS PLUS
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
@@ -165,17 +165,17 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 http://203.162.235.41:16916
 #EXTINF:-34 tvg-id="Erz.Bollywood" tvg-language="ind" group-title="DarkStreams INTERNATIONAL TV" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WQr0smmvvNegrwODDTdngdsbWhY0S3Pj8w&usqp=CAU", Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-35 tvg-id="Erz.Movie" tvg-id="zbioskop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" group-title="DarkStreams INTERNATIONAL TV", Movie Hollywood Action
+#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" tvg-id="DarkStreams-233(Erz.Movie)" tvg-id="zbioskop" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Movie Hollywood Action
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-36 tvg-name="" tvg-id="Erz.BooMY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="DarkStreams INTERNATIONAL TV", ASTRO BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-37 tvg-id="Erz.kix" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU" group-title="DarkStreams INTERNATIONAL TV",Kix
+#EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU" tvg-id="Erz.kix" group-title="DarkStreams INTERNATIONAL TV",Kix
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://nonton.site:8443/6894864475/7163819284/8
 http://210.210.155.35:80/uq2663/h/h07/01.m3u8?hosk=eroz_brebes.m3u8
-#EXTINF:-38 tvg-id="Erz.IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="Ind" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241riF_zpdPSGGRPu5crlzrEkY3B1oDIkGw&usqp=CAU" tvg-url="" group-title="DarkStreams INTERNATIONAL TV",ID HD
+#EXTINF:-38 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241riF_zpdPSGGRPu5crlzrEkY3B1oDIkGw&usqp=CAU" tvg-id="Erz.IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="Ind" tvg-url="" group-title="DarkStreams INTERNATIONAL TV",ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-39 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="DarkStreams INTERNATIONAL TV",Hallmark Movies & More
+#EXTINF:-39 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="DarkStreams INTERNATIONAL TV", Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 _______DarkStreams MUSIC_______
