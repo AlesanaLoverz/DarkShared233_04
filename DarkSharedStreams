@@ -120,13 +120,15 @@ http://gpc.my.id/vidio/citra-entertainment.m3u8
 
 _______DarkStreams INTERNATIONAL TV_______
 
+#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/warner-tv.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
+https://streaming.useetv.com/dass/133/hgtv/media_w529411425_b684100_sleng_445328.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/kbs-world.jpeg" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="KBS WORLD" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="OUTDOOR TV" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", OUTDOOR TV
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/champions-tv-3.jpg" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="HELLO" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="outdoor_USEE" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV",outdoor_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_outdoor_small.png?v=1.1" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="OUTDOOR" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV",OUTDOOR
 http://gpc.my.id/usee/outdoor.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/sbs-plus.png" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="SBS PLUS" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", SBS PLUS
 https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
@@ -146,8 +148,6 @@ http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/sm/plus-tv.jpg" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="PLUS TV" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", PLUS TV
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-#EXTINF:-1 tvg-logo="https://skuys.link/uploads/tv_image/warner-tv.png" tvg-id="DarkStreams-233" tvg-name="STREAMS-233" tvg-country="Indonesian" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", STREAMS-233
-https://streaming.useetv.com/dass/133/hgtv/media_w529411425_b684100_sleng_445328.m3u8
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Warner-azul.png" tvg-id="Erz.WB" tvg-name="WarnerBros Tv" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", WarnerBros Tv
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 https://cdn6.goprimetime.info/feed/LC28/index.m3u8
@@ -165,17 +165,17 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 http://203.162.235.41:16916
 #EXTINF:-34 tvg-id="Erz.Bollywood" tvg-language="ind" group-title="DarkStreams INTERNATIONAL TV" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WQr0smmvvNegrwODDTdngdsbWhY0S3Pj8w&usqp=CAU", Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" tvg-id="DarkStreams-233(Erz.Movie)" tvg-id="zbioskop" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Movie Hollywood Action
+#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" tvg-id="DarkStreams-233(Erz.Movie)" tvg-id="zbioskop" tvg-name="Movie Hollywood Action" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Movie Hollywood Action
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
-#EXTINF:-36 tvg-name="" tvg-id="Erz.BooMY" tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" group-title="DarkStreams INTERNATIONAL TV", ASTRO BOO
+#EXTINF:-36 tvg-logo="https://raw.githubusercontent.com/angahjee1994/logo/master/boo.png" tvg-id="Erz.BooMY" tvg-name="ASTRO BOO" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", ASTRO BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU" tvg-id="Erz.kix" group-title="DarkStreams INTERNATIONAL TV",Kix
+#EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxqdQMjel0hMN_WXpRNekQ6bTuQwEmP5uV1A&usqp=CAU" tvg-id="Erz.kix" tvg-name="KIX" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV",KIX
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 https://nonton.site:8443/6894864475/7163819284/8
 http://210.210.155.35:80/uq2663/h/h07/01.m3u8?hosk=eroz_brebes.m3u8
-#EXTINF:-38 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241riF_zpdPSGGRPu5crlzrEkY3B1oDIkGw&usqp=CAU" tvg-id="Erz.IDHDJKT.de" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="Ind" tvg-url="" group-title="DarkStreams INTERNATIONAL TV",ID HD
+#EXTINF:-38 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ241riF_zpdPSGGRPu5crlzrEkY3B1oDIkGw&usqp=CAU" tvg-id="DarkStreams-233(Erz.IDHDJKT.de)" tvg-name="ID HD (JKT)" tvg-country="DE" tvg-language="Ind" tvg-url="" group-title="DarkStreams INTERNATIONAL TV",ID HD
 http://51.77.118.216:4780/nginxlive/dexena2020/index.m3u8
-#EXTINF:-39 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" group-title="DarkStreams INTERNATIONAL TV", Hallmark Movies & More
+#EXTINF:-39 tvg-logo="https://i.imgur.com/hcLUKfv.jpg" tvg-id="DarkStreams-233" tvg-name="Hallmark Movies & More" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Hallmark Movies & More
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 _______DarkStreams MUSIC_______
