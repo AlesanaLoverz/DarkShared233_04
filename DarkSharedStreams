@@ -36,24 +36,24 @@ https://nonton.site:8443/provision/pp/1195
 http://gpc.my.id/vidio/citra-drama.m3u8
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/molafree.png" tvg-id="BathokGpc" tvg-name="mola-tv-free" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", MOLA TV FREE
 http://gpc.my.id/vidio/mola-tv-free.m3u8
-#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" tvg-id="DarkStreams-233(Erz.cinemaworld)" tvg-name="Cinema World" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", Cinema World
+#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyOLm7p1-Bro1mmACTbW2gNkZCaeSLyj9o0A&usqp=CAU" tvg-id="DarkStreams-233(Erz.cinemaworld)" tvg-name="CINEMA WORLD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", CINEMA WORLD
 http://185.180.221.194:8278/streams/d/Cinemaworld/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
 http://210.210.155.35:80/uq2663/h/h04/01.m3u8
 #EXTINF:-17 tvg-logo="https://i.imgur.com/eoHuV3J.png" tvg-id="DarkStreams-233" tvg-name="OH!K" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-id="DarkStreams-233(Animax.id)" tvg-name="Animax" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Animax
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" tvg-id="DarkStreams-233(Animax.id)" tvg-name="ANIMAX" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ANIMAX
 http://nonton.site:8888/Athayamanja/SHFTZRKFrF/3 
 http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
 http://nonton.site:8888/Alifathaya/e99MqfUxic/3
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-country="" tvg-language=" group-title="DarkStreams TV & Movies", Aniplus 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" tvg-id="ANIPlus.id" tvg-name="ANIPLUS" tvg-country="" tvg-language=" group-title="DarkStreams TV & Movies", ANIPLUS
 http://45.126.83.51/session/bb213850-d2a3-11eb-adc6-ae8dad4dc6a3/dr9445/h/h02/02.m3u8
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/02.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="Citra Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Citra Bioskop
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fd/Citra_Bioskop_Logo.png/revision/latest?cb=20191014052144" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="CITRA BIOSKOP" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CITRA BIOSKOP
 http://gpc.my.id/vidio/citra-bioskop.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="K+" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", K+
 http://210.210.155.35/session/07172d44-d88c-11eb-bcb2-bd4aa3788ef3/uq2663/h/h08/02.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="chinesedrama_USEE" tvg-country="" tvg-language=" group-title="DarkStreams TV & Movies",chinesedrama_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_chinesedrama_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="CHINESE DRAMA" tvg-country="" tvg-language=" group-title="DarkStreams TV & Movies", CHINESE DRAMA
 http://gpc.my.id/usee/chinesedrama.m3u8
 #EXTINF:-18 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/tvn.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="tvN" tvg-country="South Korean" tvg-language="South Korean" group-title="DarkStreams TV & Movies", tvN-Eng
 https://redirector-putraappsoft.herokuapp.com/tv/international/tvn.m3u8
