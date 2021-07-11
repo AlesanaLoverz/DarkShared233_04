@@ -67,7 +67,7 @@ http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/gem.jpg" tvg-id="DarkStreams-233(PutraApps)" tvg-name="GEM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", GEM
 https://redirector-putraappsoft.herokuapp.com/tv/international/gem.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="BIOSKOP INDONESIA" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", BIOSKOP INDONESIA
-https://streaming.useetv.com/dass/130/bioskopindonesia_dash/media_w7715899232_b1004100_sleng_453889.ts
+http://gumisasak.site/USEETV-MPD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="GALAXY PREMIUM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", GALAXY PREMIUM
 https://cdngb196.useetv.com/dass/133/galaxypremium_dash/media_w9171249072_b684100_sleng_453915.ts
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="IMC" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", IMC
