@@ -115,7 +115,7 @@ http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies",zee-bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="citra-entertainment" tvg-country="" tvg-language="" group-title="Entertainment",citra-entertainment
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="CITRA ENTERTAINMENT" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CITRA ENTERTAINMENT
 http://gpc.my.id/vidio/citra-entertainment.m3u8
 
 _______DarkStreams INTERNATIONAL TV_______
@@ -180,37 +180,37 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 
 _______DarkStreams MUSIC_______
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="BathokGpc" tvg-name="citra-dangdut" group-title="DarkStreams MUSIC",citra-dangdut
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_citradangdut_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="CITRA DANGDUT" tvg-country="" tvg-language="" group-title="DarkStreams MUSIC", CITRA DANGDUT
 http://gpc.my.id/vidio/citra-dangdut.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="pramborstv_USEE" group-title="DarkStreams MUSIC",pramborstv_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_pramborstv_small1.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="PRAMBORSTV" tvg-country="" tvg-language="" group-title="DarkStreams MUSIC", PRAMBORSTV
 http://gpc.my.id/usee/pramborstv.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="BathokGpc" tvg-name="The K-POP" group-title="DarkStreams MUSIC",The K-POP
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwng2GNUq-GJ2urgtHfvIxV8o1w7JwgPHlLSKhyJKzg=s88-c-k-c0x00ffffff-no-rj" tvg-id="DarkStreams-233(BathocGpc)" tvg-name="The K-POP" tvg-country="" tvg-language="" group-title="DarkStreams MUSIC", The K-POP
 http://gpc.my.id/ytlive/the-kpop.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="BathokGpc" tvg-name="musica" group-title="DarkStreams MUSIC",musica
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXNuLktfPgu7dlF062qXKKGSH2M=/filters:quality(90)/vidio-web-prod-channel/uploads/channel/image/426/musica-s-studio-60dbb5.jpg" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="MUSICA" tvg-country="" tvg-language="" group-title="DarkStreams MUSIC", MUSICA
 http://gpc.my.id/vidio/musica.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="BathokGpc" tvg-name="zing" group-title="DarkStreams MUSIC",zing
+#EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="ZING" tvg-country="" tvg-language="" group-title="DarkStreams MUSIC", ZING
 http://gpc.my.id/vidio/zing.m3u8
 
 _______DarkStreams INTERNATIONAL NEWS_______
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="BathokGpc" tvg-name="arirang_USEE" group-title="DarkStreams INTERNATIONAL NEWS", arirang_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_arirang_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="ARIRANG" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL NEWS", ARIRANG
 http://gpc.my.id/usee/arirang.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="nhkworld_USEE" group-title="DarkStreams INTERNATIONAL NEWS", nhkworld_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_nhkworld_small.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="NHK WORLD" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL NEWS", NHK WORLD
 http://gpc.my.id/usee/nhkworld.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png" tvg-id="BathokGpc" tvg-name="trtworld_USEE" group-title="DarkStreams INTERNATIONAL NEWS,trtworld_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_trtworld_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="TRT WORLD" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL NEWS, TRT WORLD
 http://gpc.my.id/usee/trtworld.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_small.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="france24_USEE" group-title="DarkStreams INTERNATIONAL NEWS",france24_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_france24_small.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="FRANCE24" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL NEWS", FRANCE 24
 http://gpc.my.id/usee/france24.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_abcaustralia_small.png" tvg-id="BathokGpc" tvg-name="abcaustralia_USEE" group-title="DarkStreams INTERNATIONAL NEWS",abcaustralia_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_abcaustralia_small.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="ABC AUSTRALIA" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL NEWS", ABC AUSTRALIA
 http://gpc.my.id/usee/abcaustralia.m3u8
 
 _______ENTERTAINMENT_______
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="BathokGpc" tvg-name="magna-tv" group-title="Entertainment",magna-tv
+#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/magnatv/livetv/magnatvlive/com.magnatv.livetv.magnatvlive_1.png" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="MAGNA TV" tvg-country="" tvg-language="" group-title="Entertainment", MAGNA TV
 http://gpc.my.id/vidio/magna-tv.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="cctv4_USEE" group-title="Entertainment",cctv4_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_cctv4_small1.png?v=2.0.0.13" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="CCTV 4" tvg-country="" tvg-language="" group-title="Entertainment", CCTV 4
 http://gpc.my.id/usee/cctv4.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="BathokGpc" tvg-name="eljohn_USEE" group-title="Entertainment",eljohn_USEE
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_eljhon_small.png?v=1.1" tvg-id="DarkStreams-233(BathokGpc)" tvg-name="ELJOHN" tvg-country="" tvg-language="" group-title="Entertainment", ELJOHN
 http://gpc.my.id/usee/eljohn.m3u8
 
 _______DarkStreams KIDS & FAMILY_______
