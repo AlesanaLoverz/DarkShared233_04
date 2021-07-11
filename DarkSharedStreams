@@ -163,7 +163,7 @@ http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
 #EXTINF:-30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknw0SJAUV8vvLB3yCyCnKTG1OTG2BGxhxKg&usqp=CAU" tvg-id="DarkStreams-233(Erz.wowowcinema)" tvg-name="Wowow Cinema" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", Wowow Cinema 
 http://203.162.235.41:16916
-#EXTINF:-34 tvg-id="Erz.Bollywood" tvg-language="ind" group-title="DarkStreams INTERNATIONAL TV" tvg-language="Indonesian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WQr0smmvvNegrwODDTdngdsbWhY0S3Pj8w&usqp=CAU", Bollywood
+#EXTINF:-34 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8WQr0smmvvNegrwODDTdngdsbWhY0S3Pj8w&usqp=CAU" tvg-id="DarkStreams-233(Erz.Bollywood)" tvg-name="BOLLYWOOD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams INTERNATIONAL TV", BOLLYWOOD
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVHVhSjqSiK6H2dDrgg__NWw7B5haiOitFGA&usqp=CAU" tvg-id="DarkStreams-233(Erz.Movie)" tvg-id="zbioskop" tvg-name="Movie Hollywood Action" tvg-country="" tvg-language="" group-title="DarkStreams INTERNATIONAL TV", Movie Hollywood Action
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
