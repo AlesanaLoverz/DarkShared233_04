@@ -79,7 +79,7 @@ https://cdngb196.useetv.com/dass/133/flik_dash/media_w7715899232_b1344100_sleng_
 #EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj6pK3XHR4uXqfOFxXVjI-JO3yL4W2gMlmIA&usqp=CAU" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="RED By HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", RED By HBO 
 https://liveorigin01.hbogoasia.com/origin/live/main/RED/10.m3u8
 http://eroz84.wap.sh/movies/hbo_red.m3u8
-#EXTINF:-8 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FOX
+#EXTINF:-8 tvg-logo="https://i.ibb.co/cbNbZYb/fox.png" tvg-id="" tvg-name="FOX HD" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FOX HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-9 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Fox_action_movies.jpg" tvg-id="" tvg-name="FOX ACTION MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", FOX ACTION MOVIES
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
