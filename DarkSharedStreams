@@ -5,6 +5,8 @@ ________DarkStreams TV & Movies________
 #EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id"DarkStreams-233(PutraApps)" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO
 http://eroz84.wap.sh/movies/hbo.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:10.0 tvg-logo="" tvg-name="TES" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", TES
+https://streaming.useetv.com/dass/130/bioskopindonesia_dash/media_w7715899232_b1004100_sleng_563140.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" tvg-id="id2" tvg-name="HBO SIGNATURE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO SIGNATURE
 http://eroz84.wap.sh/movies/hbo_sig.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
