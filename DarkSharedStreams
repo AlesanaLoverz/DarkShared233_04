@@ -5,15 +5,15 @@ ________DarkStreams TV & Movies________
 #EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id"DarkStreams-233(PutraApps)" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO
 http://eroz84.wap.sh/movies/hbo.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" tvg-id="id2" tvg-name="HBO Signature" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO Signature
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" tvg-id="id2" tvg-name="HBO SIGNATURE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO SIGNATURE
 http://eroz84.wap.sh/movies/hbo_sig.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="id2" tvg-name="KIX" tvg-country="" tvg-language="English" group-title="DarkStreams TV & Movies", KIX
 http://rr1.dens.tv/h/h07/01.m3u8
-#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" tvg-id="Erz.hbohits" tvg-name="HBO Hits" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO Hits 
+#EXTINF:-4 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7I92iyek0NDu-4UiR7GKfBbg6BjymEtgt6w&usqp=CAU" tvg-id="Erz.hbohits" tvg-name="HBO HITS" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO HITS 
 http://eroz84.wap.sh/movies/hbo_hits.m3u8
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" tvg-id="Erz.hbofam" tvg-name="HBO Family" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HBO Family 
+#EXTINF:-5 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_tP1ILFIkaRgkivY_ejLRhz2-zU2TmmMGw&usqp=CAU" tvg-id="Erz.hbofam" tvg-name="HBO FAMILY" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HBO FAMILY
 http://eroz84.wap.sh/movies/hbo_fam.m3u8
 #EXTINF:-6 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-D3QSt-XPEquBHGCHOTayZ8bhD5Pz2Efadw&usqp=CAU" tvg-id="Erz.cinemax" tvg-name="HBO CINEMAX" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HBO CINEMAX
 http://eroz84.wap.sh/movies/cinemax.m3u8
@@ -21,11 +21,11 @@ http://eroz84.wap.sh/movies/cinemax.m3u8
 http://185.180.221.194:8278/streams/d/Fmn/playlist.m3u8
 #EXTINF:-8 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="B4U KADAK" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(02)/index.m3u8
-#EXTINF:-31 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" tvg-id="DarkStreams-233(Erz.&flix)" tvg-name="&Flix HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &Flix HD
+#EXTINF:-31 tvg-logo="https://www.adgully.com/img/400/201910/flix-logo_2.png.jpg" tvg-id="DarkStreams-233(Erz.&flix)" tvg-name="&Flix HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &FLIX HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD07BwyrnKGd4sBpldzUO3KJTHCnSLHH2iw&usqp=CAU" tvg-id="DarkStreams-233(Erz.&prive)" tvg-name="&Prive HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &Prive HD
+#EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiD07BwyrnKGd4sBpldzUO3KJTHCnSLHH2iw&usqp=CAU" tvg-id="DarkStreams-233(Erz.&prive)" tvg-name="&Prive HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/mono.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-33 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OC7JsqSFcpG_S4NdRxZ2z-HwS2k2RRClmw&usqp=CAU"tvg-id="DarkStreams-233(Erz.&pictures)" tvg-name="&Pictures HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &Pictures HD
+#EXTINF:-33 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OC7JsqSFcpG_S4NdRxZ2z-HwS2k2RRClmw&usqp=CAU"tvg-id="DarkStreams-233(Erz.&pictures)" tvg-name="&Pictures HD" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", &PICTURES HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="DarkStreams-233(SkuysFlix)" tvg-name="CCM" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CCM
 http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
@@ -85,9 +85,9 @@ http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 #EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh56qHpLkd19y4qnNEDQ41VIp8CIEZkdk8eA&usqp=CAU" tvg-id="Erz.foxlife" tvg-name="FOX LIFE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX LIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-11 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU" tvg-id="Erz.foxmovies" tvg-name="FOX Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX Movies
+#EXTINF:-11 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAHinEzezD_Omvsyp0PBPe24FfV-4CRiLbIg&usqp=CAU" tvg-id="Erz.foxmovies" tvg-name="FOX MOVIES" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX MOVIES
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" tvg-name="FOX FAMILY Movies" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX FAMILY Movies
+#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj7MpyYIzXUJYT4nrG_Djfk_c1PpUKR-s0Sg&usqp=CAU" tvg-id="Erz.foxfamilymovies" tvg-name="FOX FAMILY MOVIES" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", FOX FAMILY MOVIES
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-15 tvg-logo="https://www.hitstv.com/assets/logo-HITSMOVIES.png" tvg-id="DarkStreams-233" tvg-name="HITS MOVIES" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", HITS MOVIES
 http://185.180.221.194:8278/streams/d/Hitsmovie/playlist.m3u8
@@ -108,7 +108,7 @@ https://cdn6.goprimetime.info/feed/LC26/index.m3u8
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-24 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzUhRbHUaC2OqWpN6Knjh37im8g0-Bejk6Q&usqp=CAU" tvg-id="DarkStreams-233(Erz.celestial)" tvg-name="Celestial Movie" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", Celestial Movie
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-25 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" tvg-id="DarkStreams-233(Erz.Ccm)" tvg-name="Celestial Classic" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Celestial classic
+#EXTINF:-25 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" tvg-id="DarkStreams-233(Erz.Ccm)" tvg-name="Celestial Classic" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Celestial Classic
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
 #EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="ZEEBIOSKOP" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ZEEBIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
