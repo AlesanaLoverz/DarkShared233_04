@@ -110,9 +110,8 @@ http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8?id=eroz_brebes.m3u8
 http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 #EXTINF:-25 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU-D8-OyCvq0BxguTno60TDTBxWwqkSAJ0NQ&usqp=CAU" tvg-id="DarkStreams-233(Erz.Ccm)" tvg-name="Celestial Classic" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", Celestial classic
 http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="Zee Bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ZEE Bioskop 
+#EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN91CodM6-_wj1L2kGgRb001b4HkY0HNn-Og&usqp=CAU" tvg-id="DarkStreams-233(Erz.zee)" tvg-name="ZEEBIOSKOP" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", ZEEBIOSKOP
 http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_zbioskop_small1.png?v=2.0.0.13" tvg-id="BathokGpc" tvg-name="zee-bioskop" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies",zee-bioskop
 http://gpc.my.id/vidio/zee-bioskop.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest/scale-to-width-down/250?cb=20191014052642" tvg-id="BathokGpc" tvg-name="CITRA ENTERTAINMENT" tvg-country="" tvg-language="" group-title="DarkStreams TV & Movies", CITRA ENTERTAINMENT
 http://gpc.my.id/vidio/citra-entertainment.m3u8
