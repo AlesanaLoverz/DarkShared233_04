@@ -9,6 +9,7 @@ https://streaming.useetv.com/dass/133/tvnmovies_dash/media_w1548975560_b684100_s
 #EXTINF:10.0 tvg-logo="" tvg-name="TES" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", TES2
 https://streaming.useetv.com/dass/130/bioskopindonesia_dash/media_w7715899232_b1004100_sleng_598188.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgQ-cN5yusvMzGPj6R67n3Wd2zGJHse90jw&usqp=CAU" tvg-id="id2" tvg-name="HBO SIGNATURE" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO SIGNATURE
+https://liveorigin01.hbogoasia.com/origin/live/main/SIG/1.m3u8
 http://eroz84.wap.sh/movies/hbo_sig.m3u8
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 #EXTINF:-1 tvg-logo="" tvg-id="id2" tvg-name="KIX" tvg-country="" tvg-language="English" group-title="DarkStreams TV & Movies", KIX
