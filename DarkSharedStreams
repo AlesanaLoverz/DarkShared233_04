@@ -3,7 +3,7 @@
 ________DarkStreams TV & Movies________
 
 #EXTINF:-2 tvg-logo="https://redirector-putraappsoft.herokuapp.com/thumbnail/tv/international/hbo.jpg" tvg-id"DarkStreams-233(PutraApps)" tvg-name="HBO" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", HBO
-https://liveorigin01.hbogoasia.com/origin/live/main/HBO/2.m3u8
+https://liveorigin01.hbogoasia.com/origin/live/main/HBO/1.m3u8
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:10.0 tvg-logo="" tvg-name="TES" tvg-country="" tvg-language="Indonesian" group-title="DarkStreams TV & Movies", TES
 https://streaming.useetv.com/dass/133/tvnmovies_dash/media_w1548975560_b684100_sleng_454365.ts
